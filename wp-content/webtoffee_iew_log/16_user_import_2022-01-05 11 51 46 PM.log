@@ -1,0 +1,35 @@
+01-06-2022 @ 00:51:46 - ---[ New import started at 2022-01-05 23:51:46 ] PHP Memory: 128 MB, WP Memory: 40 MB
+01-06-2022 @ 00:51:46 - Preparing for import.
+01-06-2022 @ 00:51:46 - Row :1 - Parsing item.
+01-06-2022 @ 00:51:46 - Row :1 - Processing item.
+01-06-2022 @ 00:51:46 - Processing users.
+01-06-2022 @ 00:51:47 - > &#8220;224&#8221;User imported successfully. ID:224
+01-06-2022 @ 00:51:47 - > Finished importing user 224
+01-06-2022 @ 00:51:47 - Row :1 - User imported successfully.
+01-06-2022 @ 00:51:47 - Row :2 - Parsing item.
+01-06-2022 @ 00:51:47 - Row :2 - Processing item.
+01-06-2022 @ 00:51:47 - Processing users.
+01-06-2022 @ 00:51:47 - > &#8220;225&#8221;User imported successfully. ID:225
+01-06-2022 @ 00:51:47 - > Finished importing user 225
+01-06-2022 @ 00:51:47 - Row :2 - User imported successfully.
+01-06-2022 @ 00:51:47 - Row :3 - Parsing item.
+01-06-2022 @ 00:51:47 - Row :3 - Parsing failed. Reason: User with same Email already exists. Email: info@klostermuehle-altenmarkt.de
+01-06-2022 @ 00:51:47 - Row :4 - Parsing item.
+01-06-2022 @ 00:51:47 - Row :4 - Processing item.
+01-06-2022 @ 00:51:47 - Processing users.
+01-06-2022 @ 00:51:48 - > &#8220;226&#8221;User imported successfully. ID:226
+01-06-2022 @ 00:51:48 - > Finished importing user 226
+01-06-2022 @ 00:51:48 - Row :4 - User imported successfully.
+01-06-2022 @ 00:51:48 - Row :5 - Parsing item.
+01-06-2022 @ 00:51:48 - Row :5 - Processing item.
+01-06-2022 @ 00:51:48 - Processing users.
+01-06-2022 @ 00:51:48 - > &#8220;227&#8221;User imported successfully. ID:227
+01-06-2022 @ 00:51:48 - > Finished importing user 227
+01-06-2022 @ 00:51:48 - Row :5 - User imported successfully.
+01-06-2022 @ 00:51:48 - Row :6 - Parsing item.
+01-06-2022 @ 00:51:48 - Row :6 - Processing item.
+01-06-2022 @ 00:51:48 - Processing users.
+01-06-2022 @ 00:51:49 - > &#8220;228&#8221;User imported successfully. ID:228
+01-06-2022 @ 00:51:49 - > Finished importing user 228
+01-06-2022 @ 00:51:49 - Row :6 - User imported successfully.
+01-06-2022 @ 00:51:49 - ---[ Import ended at 2022-01-05 23:51:49]---

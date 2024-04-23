@@ -1,0 +1,319 @@
+02-15-2023 @ 14:45:00 - ---[ New import started at 2023-02-15 13:45:00 ] PHP Memory: 256 MB, WP Memory: 40 MB
+02-15-2023 @ 14:45:00 - Preparing for import.
+02-15-2023 @ 14:45:00 - Row :1 - Parsing item.
+02-15-2023 @ 14:45:00 - Row :1 - Processing item.
+02-15-2023 @ 14:45:00 - Processing users.
+02-15-2023 @ 14:45:01 - > &#8220;787&#8221;User imported successfully. ID:787
+02-15-2023 @ 14:45:01 - > Finished importing user 787
+02-15-2023 @ 14:45:01 - Row :1 - User imported successfully.
+02-15-2023 @ 14:45:01 - Row :2 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :2 - Parsing failed. Reason: User with same Email already exists. Email: landwirtschaft-schreyer@t-online.de
+02-15-2023 @ 14:45:01 - Row :3 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :3 - Parsing failed. Reason: User with same Email already exists. Email: info@zwingel-milch.de
+02-15-2023 @ 14:45:01 - Row :4 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :4 - Parsing failed. Reason: User with same Email already exists. Email: info@tiekings.net
+02-15-2023 @ 14:45:01 - Row :5 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :5 - Parsing failed. Reason: User with same Email already exists. Email: einkauf@confiserie-dengel.de
+02-15-2023 @ 14:45:01 - Row :6 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :6 - Parsing failed. Reason: User with same Email already exists. Email: angelika.feuerbacher@googlemail.com
+02-15-2023 @ 14:45:01 - Row :7 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :7 - Parsing failed. Reason: User with same Email already exists. Email: biohof-henninger@gmx.de
+02-15-2023 @ 14:45:01 - Row :8 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :8 - Parsing failed. Reason: User with same Email already exists. Email: kontakt@lindermeir-hofgockel.de
+02-15-2023 @ 14:45:01 - Row :9 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :9 - Parsing failed. Reason: User with same Email already exists. Email: glasl-familie@web.de
+02-15-2023 @ 14:45:01 - Row :10 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :10 - Parsing failed. Reason: User with same Email already exists. Email: lenabetz@icloud.com
+02-15-2023 @ 14:45:01 - Row :11 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :11 - Parsing failed. Reason: User with same Email already exists. Email: michael.merz@hotmail.de
+02-15-2023 @ 14:45:01 - Row :12 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :12 - Parsing failed. Reason: User with same Email already exists. Email: kathrin.herbrich@soldan.com
+02-15-2023 @ 14:45:01 - Row :13 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :13 - Parsing failed. Reason: User with same Email already exists. Email: summererhof@gmx.de
+02-15-2023 @ 14:45:01 - Row :14 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :14 - Parsing failed. Reason: User with same Email already exists. Email: gerlindegrassl@web.de
+02-15-2023 @ 14:45:01 - Row :15 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :15 - Processing item.
+02-15-2023 @ 14:45:01 - Processing users.
+02-15-2023 @ 14:45:01 - > &#8220;788&#8221;User imported successfully. ID:788
+02-15-2023 @ 14:45:01 - > Finished importing user 788
+02-15-2023 @ 14:45:01 - Row :15 - User imported successfully.
+02-15-2023 @ 14:45:01 - Row :16 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :16 - Processing item.
+02-15-2023 @ 14:45:01 - Processing users.
+02-15-2023 @ 14:45:01 - > &#8220;789&#8221;User imported successfully. ID:789
+02-15-2023 @ 14:45:01 - > Finished importing user 789
+02-15-2023 @ 14:45:01 - Row :16 - User imported successfully.
+02-15-2023 @ 14:45:01 - Row :17 - Parsing item.
+02-15-2023 @ 14:45:01 - Row :17 - Processing item.
+02-15-2023 @ 14:45:01 - Processing users.
+02-15-2023 @ 14:45:02 - > &#8220;790&#8221;User imported successfully. ID:790
+02-15-2023 @ 14:45:02 - > Finished importing user 790
+02-15-2023 @ 14:45:02 - Row :17 - User imported successfully.
+02-15-2023 @ 14:45:02 - Row :18 - Parsing item.
+02-15-2023 @ 14:45:02 - Row :18 - Processing item.
+02-15-2023 @ 14:45:02 - Processing users.
+02-15-2023 @ 14:45:02 - > &#8220;791&#8221;User imported successfully. ID:791
+02-15-2023 @ 14:45:02 - > Finished importing user 791
+02-15-2023 @ 14:45:02 - Row :18 - User imported successfully.
+02-15-2023 @ 14:45:02 - Row :19 - Parsing item.
+02-15-2023 @ 14:45:02 - Row :19 - Processing item.
+02-15-2023 @ 14:45:02 - Processing users.
+02-15-2023 @ 14:45:02 - > &#8220;792&#8221;User imported successfully. ID:792
+02-15-2023 @ 14:45:02 - > Finished importing user 792
+02-15-2023 @ 14:45:02 - Row :19 - User imported successfully.
+02-15-2023 @ 14:45:02 - Row :20 - Parsing item.
+02-15-2023 @ 14:45:02 - Row :20 - Processing item.
+02-15-2023 @ 14:45:02 - Processing users.
+02-15-2023 @ 14:45:03 - > &#8220;793&#8221;User imported successfully. ID:793
+02-15-2023 @ 14:45:03 - > Finished importing user 793
+02-15-2023 @ 14:45:03 - Row :20 - User imported successfully.
+02-15-2023 @ 14:45:03 - Row :21 - Parsing item.
+02-15-2023 @ 14:45:03 - Row :21 - Processing item.
+02-15-2023 @ 14:45:03 - Processing users.
+02-15-2023 @ 14:45:03 - > &#8220;794&#8221;User imported successfully. ID:794
+02-15-2023 @ 14:45:03 - > Finished importing user 794
+02-15-2023 @ 14:45:03 - Row :21 - User imported successfully.
+02-15-2023 @ 14:45:03 - Row :22 - Parsing item.
+02-15-2023 @ 14:45:03 - Row :22 - Processing item.
+02-15-2023 @ 14:45:03 - Processing users.
+02-15-2023 @ 14:45:03 - > &#8220;795&#8221;User imported successfully. ID:795
+02-15-2023 @ 14:45:03 - > Finished importing user 795
+02-15-2023 @ 14:45:03 - Row :22 - User imported successfully.
+02-15-2023 @ 14:45:03 - Row :23 - Parsing item.
+02-15-2023 @ 14:45:03 - Row :23 - Parsing failed. Reason: User with same Email already exists. Email: info@hartmann-weideschweine.de
+02-15-2023 @ 14:45:03 - Row :24 - Parsing item.
+02-15-2023 @ 14:45:03 - Row :24 - Processing item.
+02-15-2023 @ 14:45:03 - Processing users.
+02-15-2023 @ 14:45:04 - > &#8220;796&#8221;User imported successfully. ID:796
+02-15-2023 @ 14:45:04 - > Finished importing user 796
+02-15-2023 @ 14:45:04 - Row :24 - User imported successfully.
+02-15-2023 @ 14:45:04 - Row :25 - Parsing item.
+02-15-2023 @ 14:45:04 - Row :25 - Processing item.
+02-15-2023 @ 14:45:04 - Processing users.
+02-15-2023 @ 14:45:04 - > &#8220;797&#8221;User imported successfully. ID:797
+02-15-2023 @ 14:45:04 - > Finished importing user 797
+02-15-2023 @ 14:45:04 - Row :25 - User imported successfully.
+02-15-2023 @ 14:45:04 - Row :26 - Parsing item.
+02-15-2023 @ 14:45:04 - Row :26 - Parsing failed. Reason: User with same Email already exists. Email: mayers-backstube@t-online.de
+02-15-2023 @ 14:45:04 - Row :27 - Parsing item.
+02-15-2023 @ 14:45:04 - Row :27 - Processing item.
+02-15-2023 @ 14:45:04 - Processing users.
+02-15-2023 @ 14:45:04 - > &#8220;798&#8221;User imported successfully. ID:798
+02-15-2023 @ 14:45:04 - > Finished importing user 798
+02-15-2023 @ 14:45:04 - Row :27 - User imported successfully.
+02-15-2023 @ 14:45:04 - Row :28 - Parsing item.
+02-15-2023 @ 14:45:04 - Row :28 - Parsing failed. Reason: User with same Email already exists. Email: lenasfrankenkoerbchen@web.de
+02-15-2023 @ 14:45:04 - Row :29 - Parsing item.
+02-15-2023 @ 14:45:04 - Row :29 - Parsing failed. Reason: User with same Email already exists. Email: info@zapfpunkt-neubeuern.de
+02-15-2023 @ 14:45:04 - Row :30 - Parsing item.
+02-15-2023 @ 14:45:04 - Row :30 - Parsing failed. Reason: User with same Email already exists. Email: info@hartmann-weideschweine.de
+02-15-2023 @ 14:45:04 - Row :31 - Parsing item.
+02-15-2023 @ 14:45:04 - Row :31 - Processing item.
+02-15-2023 @ 14:45:04 - Processing users.
+02-15-2023 @ 14:45:05 - > &#8220;799&#8221;User imported successfully. ID:799
+02-15-2023 @ 14:45:05 - > Finished importing user 799
+02-15-2023 @ 14:45:05 - Row :31 - User imported successfully.
+02-15-2023 @ 14:45:05 - Row :32 - Parsing item.
+02-15-2023 @ 14:45:05 - Row :32 - Processing item.
+02-15-2023 @ 14:45:05 - Processing users.
+02-15-2023 @ 14:45:05 - > &#8220;800&#8221;User imported successfully. ID:800
+02-15-2023 @ 14:45:05 - > Finished importing user 800
+02-15-2023 @ 14:45:05 - Row :32 - User imported successfully.
+02-15-2023 @ 14:45:05 - Row :33 - Parsing item.
+02-15-2023 @ 14:45:05 - Row :33 - Processing item.
+02-15-2023 @ 14:45:05 - Processing users.
+02-15-2023 @ 14:45:05 - > &#8220;801&#8221;User imported successfully. ID:801
+02-15-2023 @ 14:45:05 - > Finished importing user 801
+02-15-2023 @ 14:45:05 - Row :33 - User imported successfully.
+02-15-2023 @ 14:45:05 - Row :34 - Parsing item.
+02-15-2023 @ 14:45:05 - Row :34 - Processing item.
+02-15-2023 @ 14:45:05 - Processing users.
+02-15-2023 @ 14:45:06 - > &#8220;802&#8221;User imported successfully. ID:802
+02-15-2023 @ 14:45:06 - > Finished importing user 802
+02-15-2023 @ 14:45:06 - Row :34 - User imported successfully.
+02-15-2023 @ 14:45:06 - Row :35 - Parsing item.
+02-15-2023 @ 14:45:06 - Row :35 - Parsing failed. Reason: User with same Email already exists. Email: info@lueske-frischehof.de
+02-15-2023 @ 14:45:06 - Row :36 - Parsing item.
+02-15-2023 @ 14:45:06 - Row :36 - Parsing failed. Reason: User with same Email already exists. Email: lukas-lautner@gmx.de
+02-15-2023 @ 14:45:06 - Row :37 - Parsing item.
+02-15-2023 @ 14:45:06 - Row :37 - Parsing failed. Reason: User with same Email already exists. Email: sauladen@zwergbachhof.de
+02-15-2023 @ 14:45:06 - Row :38 - Parsing item.
+02-15-2023 @ 14:45:06 - > skipped: cannot insert user without email.
+02-15-2023 @ 14:45:06 - Row :38 - Parsing failed. Reason: > skipped: cannot insert user without email.
+02-15-2023 @ 14:45:06 - Row :39 - Parsing item.
+02-15-2023 @ 14:45:06 - Row :39 - Parsing failed. Reason: User with same Email already exists. Email: info@kelterei-mertl.de
+02-15-2023 @ 14:45:06 - Row :40 - Parsing item.
+02-15-2023 @ 14:45:06 - Row :40 - Processing item.
+02-15-2023 @ 14:45:06 - Processing users.
+02-15-2023 @ 14:45:06 - > &#8220;803&#8221;User imported successfully. ID:803
+02-15-2023 @ 14:45:06 - > Finished importing user 803
+02-15-2023 @ 14:45:06 - Row :40 - User imported successfully.
+02-15-2023 @ 14:45:06 - Row :41 - Parsing item.
+02-15-2023 @ 14:45:06 - Row :41 - Processing item.
+02-15-2023 @ 14:45:06 - Processing users.
+02-15-2023 @ 14:45:06 - > &#8220;804&#8221;User imported successfully. ID:804
+02-15-2023 @ 14:45:06 - > Finished importing user 804
+02-15-2023 @ 14:45:06 - Row :41 - User imported successfully.
+02-15-2023 @ 14:45:06 - Row :42 - Parsing item.
+02-15-2023 @ 14:45:06 - Row :42 - Processing item.
+02-15-2023 @ 14:45:06 - Processing users.
+02-15-2023 @ 14:45:07 - > &#8220;805&#8221;User imported successfully. ID:805
+02-15-2023 @ 14:45:07 - > Finished importing user 805
+02-15-2023 @ 14:45:07 - Row :42 - User imported successfully.
+02-15-2023 @ 14:45:07 - Row :43 - Parsing item.
+02-15-2023 @ 14:45:07 - Row :43 - Processing item.
+02-15-2023 @ 14:45:07 - Processing users.
+02-15-2023 @ 14:45:07 - > &#8220;806&#8221;User imported successfully. ID:806
+02-15-2023 @ 14:45:07 - > Finished importing user 806
+02-15-2023 @ 14:45:07 - Row :43 - User imported successfully.
+02-15-2023 @ 14:45:07 - Row :44 - Parsing item.
+02-15-2023 @ 14:45:07 - Row :44 - Processing item.
+02-15-2023 @ 14:45:07 - Processing users.
+02-15-2023 @ 14:45:07 - > &#8220;807&#8221;User imported successfully. ID:807
+02-15-2023 @ 14:45:07 - > Finished importing user 807
+02-15-2023 @ 14:45:07 - Row :44 - User imported successfully.
+02-15-2023 @ 14:45:07 - Row :45 - Parsing item.
+02-15-2023 @ 14:45:07 - Row :45 - Processing item.
+02-15-2023 @ 14:45:07 - Processing users.
+02-15-2023 @ 14:45:08 - > &#8220;808&#8221;User imported successfully. ID:808
+02-15-2023 @ 14:45:08 - > Finished importing user 808
+02-15-2023 @ 14:45:08 - Row :45 - User imported successfully.
+02-15-2023 @ 14:45:08 - Row :46 - Parsing item.
+02-15-2023 @ 14:45:08 - > skipped: cannot insert user without email.
+02-15-2023 @ 14:45:08 - Row :46 - Parsing failed. Reason: > skipped: cannot insert user without email.
+02-15-2023 @ 14:45:08 - Row :47 - Parsing item.
+02-15-2023 @ 14:45:08 - Row :47 - Processing item.
+02-15-2023 @ 14:45:08 - Processing users.
+02-15-2023 @ 14:45:08 - > &#8220;809&#8221;User imported successfully. ID:809
+02-15-2023 @ 14:45:08 - > Finished importing user 809
+02-15-2023 @ 14:45:08 - Row :47 - User imported successfully.
+02-15-2023 @ 14:45:08 - Row :48 - Parsing item.
+02-15-2023 @ 14:45:08 - Row :48 - Processing item.
+02-15-2023 @ 14:45:08 - Processing users.
+02-15-2023 @ 14:45:08 - > &#8220;810&#8221;User imported successfully. ID:810
+02-15-2023 @ 14:45:08 - > Finished importing user 810
+02-15-2023 @ 14:45:08 - Row :48 - User imported successfully.
+02-15-2023 @ 14:45:08 - Row :49 - Parsing item.
+02-15-2023 @ 14:45:08 - Row :49 - Parsing failed. Reason: User with same Email already exists. Email: KGB-Markt@t-online.de
+02-15-2023 @ 14:45:08 - Row :50 - Parsing item.
+02-15-2023 @ 14:45:08 - Row :50 - Parsing failed. Reason: User with same Email already exists. Email: schoen.sonja@yahoo.de
+02-15-2023 @ 14:45:08 - Row :51 - Parsing item.
+02-15-2023 @ 14:45:08 - Row :51 - Parsing failed. Reason: User with same Email already exists. Email: Info@bauernhof-kern.de
+02-15-2023 @ 14:45:08 - Row :52 - Parsing item.
+02-15-2023 @ 14:45:08 - Row :52 - Processing item.
+02-15-2023 @ 14:45:08 - Processing users.
+02-15-2023 @ 14:45:09 - > &#8220;811&#8221;User imported successfully. ID:811
+02-15-2023 @ 14:45:09 - > Finished importing user 811
+02-15-2023 @ 14:45:09 - Row :52 - User imported successfully.
+02-15-2023 @ 14:45:09 - Row :53 - Parsing item.
+02-15-2023 @ 14:45:09 - Row :53 - Processing item.
+02-15-2023 @ 14:45:09 - Processing users.
+02-15-2023 @ 14:45:09 - > &#8220;812&#8221;User imported successfully. ID:812
+02-15-2023 @ 14:45:09 - > Finished importing user 812
+02-15-2023 @ 14:45:09 - Row :53 - User imported successfully.
+02-15-2023 @ 14:45:09 - Row :54 - Parsing item.
+02-15-2023 @ 14:45:09 - Row :54 - Processing item.
+02-15-2023 @ 14:45:09 - Processing users.
+02-15-2023 @ 14:45:09 - > &#8220;813&#8221;User imported successfully. ID:813
+02-15-2023 @ 14:45:09 - > Finished importing user 813
+02-15-2023 @ 14:45:09 - Row :54 - User imported successfully.
+02-15-2023 @ 14:45:09 - Row :55 - Parsing item.
+02-15-2023 @ 14:45:09 - Row :55 - Parsing failed. Reason: User with same Email already exists. Email: joergknoedler@t-online.de
+02-15-2023 @ 14:45:09 - Row :56 - Parsing item.
+02-15-2023 @ 14:45:09 - Row :56 - Parsing failed. Reason: User with same Email already exists. Email: Susanne@mimis-beilngries.de
+02-15-2023 @ 14:45:09 - Row :57 - Parsing item.
+02-15-2023 @ 14:45:09 - Row :57 - Processing item.
+02-15-2023 @ 14:45:09 - Processing users.
+02-15-2023 @ 14:45:10 - > &#8220;814&#8221;User imported successfully. ID:814
+02-15-2023 @ 14:45:10 - > Finished importing user 814
+02-15-2023 @ 14:45:10 - Row :57 - User imported successfully.
+02-15-2023 @ 14:45:10 - Row :58 - Parsing item.
+02-15-2023 @ 14:45:10 - Row :58 - Processing item.
+02-15-2023 @ 14:45:10 - Processing users.
+02-15-2023 @ 14:45:10 - > &#8220;815&#8221;User imported successfully. ID:815
+02-15-2023 @ 14:45:10 - > Finished importing user 815
+02-15-2023 @ 14:45:10 - Row :58 - User imported successfully.
+02-15-2023 @ 14:45:10 - Row :59 - Parsing item.
+02-15-2023 @ 14:45:10 - Row :59 - Processing item.
+02-15-2023 @ 14:45:10 - Processing users.
+02-15-2023 @ 14:45:10 - > &#8220;816&#8221;User imported successfully. ID:816
+02-15-2023 @ 14:45:10 - > Finished importing user 816
+02-15-2023 @ 14:45:10 - Row :59 - User imported successfully.
+02-15-2023 @ 14:45:10 - Row :60 - Parsing item.
+02-15-2023 @ 14:45:10 - Row :60 - Parsing failed. Reason: User with same Email already exists. Email: Thomas.Sedlmayr@web.de
+02-15-2023 @ 14:45:10 - Row :61 - Parsing item.
+02-15-2023 @ 14:45:10 - Row :61 - Parsing failed. Reason: User with same Email already exists. Email: frass@hofladen-querfeldein.de
+02-15-2023 @ 14:45:10 - Row :62 - Parsing item.
+02-15-2023 @ 14:45:10 - Row :62 - Parsing failed. Reason: User with same Email already exists. Email: Fischerbinkowskyramona@gmail.com
+02-15-2023 @ 14:45:10 - Row :63 - Parsing item.
+02-15-2023 @ 14:45:10 - Row :63 - Parsing failed. Reason: User with same Email already exists. Email: haas-rosengarten@t-online.de
+02-15-2023 @ 14:45:10 - Row :64 - Parsing item.
+02-15-2023 @ 14:45:10 - Row :64 - Processing item.
+02-15-2023 @ 14:45:10 - Processing users.
+02-15-2023 @ 14:45:11 - > &#8220;817&#8221;User imported successfully. ID:817
+02-15-2023 @ 14:45:11 - > Finished importing user 817
+02-15-2023 @ 14:45:11 - Row :64 - User imported successfully.
+02-15-2023 @ 14:45:11 - Row :65 - Parsing item.
+02-15-2023 @ 14:45:11 - Row :65 - Parsing failed. Reason: User with same Email already exists. Email: ballmannshof@gmx.de
+02-15-2023 @ 14:45:11 - Row :66 - Parsing item.
+02-15-2023 @ 14:45:11 - Row :66 - Processing item.
+02-15-2023 @ 14:45:11 - Processing users.
+02-15-2023 @ 14:45:11 - > &#8220;818&#8221;User imported successfully. ID:818
+02-15-2023 @ 14:45:11 - > Finished importing user 818
+02-15-2023 @ 14:45:11 - Row :66 - User imported successfully.
+02-15-2023 @ 14:45:11 - Row :67 - Parsing item.
+02-15-2023 @ 14:45:11 - Row :67 - Processing item.
+02-15-2023 @ 14:45:11 - Processing users.
+02-15-2023 @ 14:45:11 - > &#8220;819&#8221;User imported successfully. ID:819
+02-15-2023 @ 14:45:11 - > Finished importing user 819
+02-15-2023 @ 14:45:11 - Row :67 - User imported successfully.
+02-15-2023 @ 14:45:11 - Row :68 - Parsing item.
+02-15-2023 @ 14:45:11 - Row :68 - Parsing failed. Reason: User with same Email already exists. Email: obstbau-graeb@t-online.de
+02-15-2023 @ 14:45:11 - Row :69 - Parsing item.
+02-15-2023 @ 14:45:11 - Row :69 - Parsing failed. Reason: User with same Email already exists. Email: info@eierfaerberei.de
+02-15-2023 @ 14:45:11 - Row :70 - Parsing item.
+02-15-2023 @ 14:45:11 - Row :70 - Parsing failed. Reason: User with same Email already exists. Email: christina.rachl@rwg-erdinger-land.de
+02-15-2023 @ 14:45:11 - Row :71 - Parsing item.
+02-15-2023 @ 14:45:11 - Row :71 - Processing item.
+02-15-2023 @ 14:45:11 - Processing users.
+02-15-2023 @ 14:45:12 - > &#8220;820&#8221;User imported successfully. ID:820
+02-15-2023 @ 14:45:12 - > Finished importing user 820
+02-15-2023 @ 14:45:12 - Row :71 - User imported successfully.
+02-15-2023 @ 14:45:12 - Row :72 - Parsing item.
+02-15-2023 @ 14:45:12 - Row :72 - Parsing failed. Reason: User with same Email already exists. Email: martin.foell@eier-foell.de
+02-15-2023 @ 14:45:12 - Row :73 - Parsing item.
+02-15-2023 @ 14:45:12 - Row :73 - Processing item.
+02-15-2023 @ 14:45:12 - Processing users.
+02-15-2023 @ 14:45:12 - > &#8220;821&#8221;User imported successfully. ID:821
+02-15-2023 @ 14:45:12 - > Finished importing user 821
+02-15-2023 @ 14:45:12 - Row :73 - User imported successfully.
+02-15-2023 @ 14:45:12 - Row :74 - Parsing item.
+02-15-2023 @ 14:45:12 - Row :74 - Processing item.
+02-15-2023 @ 14:45:12 - Processing users.
+02-15-2023 @ 14:45:12 - > &#8220;822&#8221;User imported successfully. ID:822
+02-15-2023 @ 14:45:12 - > Finished importing user 822
+02-15-2023 @ 14:45:12 - Row :74 - User imported successfully.
+02-15-2023 @ 14:45:12 - Row :75 - Parsing item.
+02-15-2023 @ 14:45:12 - Row :75 - Processing item.
+02-15-2023 @ 14:45:12 - Processing users.
+02-15-2023 @ 14:45:13 - > &#8220;823&#8221;User imported successfully. ID:823
+02-15-2023 @ 14:45:13 - > Finished importing user 823
+02-15-2023 @ 14:45:13 - Row :75 - User imported successfully.
+02-15-2023 @ 14:45:13 - Row :76 - Parsing item.
+02-15-2023 @ 14:45:13 - Row :76 - Processing item.
+02-15-2023 @ 14:45:13 - Processing users.
+02-15-2023 @ 14:45:13 - > &#8220;824&#8221;User imported successfully. ID:824
+02-15-2023 @ 14:45:13 - > Finished importing user 824
+02-15-2023 @ 14:45:13 - Row :76 - User imported successfully.
+02-15-2023 @ 14:45:13 - Row :77 - Parsing item.
+02-15-2023 @ 14:45:13 - Row :77 - Parsing failed. Reason: User with same Email already exists. Email: johanna.kalcher@web.de
+02-15-2023 @ 14:45:13 - Row :78 - Parsing item.
+02-15-2023 @ 14:45:13 - Row :78 - Processing item.
+02-15-2023 @ 14:45:13 - Processing users.
+02-15-2023 @ 14:45:13 - > &#8220;825&#8221;User imported successfully. ID:825
+02-15-2023 @ 14:45:13 - > Finished importing user 825
+02-15-2023 @ 14:45:13 - Row :78 - User imported successfully.
+02-15-2023 @ 14:45:13 - Row :79 - Parsing item.
+02-15-2023 @ 14:45:13 - Row :79 - Parsing failed. Reason: User with same Email already exists. Email: info@stadthofladen.com
+02-15-2023 @ 14:45:13 - ---[ Import ended at 2023-02-15 13:45:13]---

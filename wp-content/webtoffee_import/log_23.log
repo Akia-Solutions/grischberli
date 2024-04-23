@@ -1,0 +1,60 @@
+a:4:{s:3:"row";i:1;s:7:"message";s:80:"User with same Email already exists. Email: Anna-Dina.Priller@Ansitz-Hohenegg.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:2;s:7:"message";s:74:"User with same Email already exists. Email: c.krafft@delikatessen-berge.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:3;s:7:"message";s:66:"User with same Email already exists. Email: mathias.daffner@web.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:4;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:554;}
+a:4:{s:3:"row";i:5;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:555;}
+a:4:{s:3:"row";i:6;s:7:"message";s:65:"User with same Email already exists. Email: info@wallochny-hof.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:7;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:556;}
+a:4:{s:3:"row";i:8;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:557;}
+a:4:{s:3:"row";i:9;s:7:"message";s:70:"User with same Email already exists. Email: christianveit117@gmail.com";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:10;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:558;}
+a:4:{s:3:"row";i:11;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:559;}
+a:4:{s:3:"row";i:12;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:560;}
+a:4:{s:3:"row";i:13;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:561;}
+a:4:{s:3:"row";i:14;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:562;}
+a:4:{s:3:"row";i:15;s:7:"message";s:61:"User with same Email already exists. Email: jonas.k@oschau.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:16;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:563;}
+a:4:{s:3:"row";i:17;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:564;}
+a:4:{s:3:"row";i:18;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:565;}
+a:4:{s:3:"row";i:19;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:566;}
+a:4:{s:3:"row";i:20;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:567;}
+a:4:{s:3:"row";i:21;s:7:"message";s:64:"User with same Email already exists. Email: hallo@brotzeitbar.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:22;s:7:"message";s:75:"User with same Email already exists. Email: dorfbaeckerei_donaubauer@web.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:23;s:7:"message";s:70:"User with same Email already exists. Email: beef@wagyu-frankenhoehe.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:24;s:7:"message";s:65:"User with same Email already exists. Email: tobias_schmitt@gmx.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:25;s:7:"message";s:61:"User with same Email already exists. Email: info@bonschabs.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:26;s:7:"message";s:68:"User with same Email already exists. Email: info@backstube-merkel.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:27;s:7:"message";s:72:"User with same Email already exists. Email: markusfeldwieser@t-online.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:28;s:7:"message";s:64:"User with same Email already exists. Email: anton.klaiber@web.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:29;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:568;}
+a:4:{s:3:"row";i:30;s:7:"message";s:73:"User with same Email already exists. Email: info@schnells-kuerbiskerne.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:31;s:7:"message";s:44:"> skipped: cannot insert user without email.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:32;s:7:"message";s:74:"User with same Email already exists. Email: iris.trautner@obst-trautner.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:33;s:7:"message";s:77:"User with same Email already exists. Email: kontakt@ferienhof-birnbaum.bayern";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:34;s:7:"message";s:74:"User with same Email already exists. Email: info@knoblauchsland-gemuese.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:35;s:7:"message";s:44:"> skipped: cannot insert user without email.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:36;s:7:"message";s:59:"User with same Email already exists. Email: PoppAnja@gmx.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:37;s:7:"message";s:76:"User with same Email already exists. Email: rechnungen@brauhaus-germering.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:38;s:7:"message";s:77:"User with same Email already exists. Email: nadine.hoffmann@ebz-pappenheim.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:39;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:569;}
+a:4:{s:3:"row";i:40;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:570;}
+a:4:{s:3:"row";i:41;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:571;}
+a:4:{s:3:"row";i:42;s:7:"message";s:61:"User with same Email already exists. Email: bf@hotel-luise.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:43;s:7:"message";s:70:"User with same Email already exists. Email: martina.schindlbeck@web.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:44;s:7:"message";s:82:"User with same Email already exists. Email: karin.schuldenzucker@living-hotels.com";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:45;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:572;}
+a:4:{s:3:"row";i:46;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:573;}
+a:4:{s:3:"row";i:47;s:7:"message";s:68:"User with same Email already exists. Email: info@hofladen-kratzer.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:48;s:7:"message";s:74:"User with same Email already exists. Email: info@wiesenfelder-dorfladen.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:49;s:7:"message";s:78:"User with same Email already exists. Email: biolandhof.wuertenberger@gmail.com";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:50;s:7:"message";s:74:"User with same Email already exists. Email: guenther.steinmann@t-online.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:51;s:7:"message";s:61:"User with same Email already exists. Email: info@naegelhof.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:52;s:7:"message";s:63:"User with same Email already exists. Email: doersch3@freenet.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:53;s:7:"message";s:63:"User with same Email already exists. Email: info@unerwartet.com";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:54;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:574;}
+a:4:{s:3:"row";i:55;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:575;}
+a:4:{s:3:"row";i:56;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:576;}
+a:4:{s:3:"row";i:57;s:7:"message";s:64:"User with same Email already exists. Email: info@maisingerhof.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:58;s:7:"message";s:74:"User with same Email already exists. Email: maria.theresia.barth@gmail.com";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:59;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:577;}
+a:4:{s:3:"row";i:60;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:578;}

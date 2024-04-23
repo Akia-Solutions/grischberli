@@ -1,0 +1,491 @@
+ID;customer_id;user_login;user_pass;user_nicename;user_email;user_url;user_registered;display_name;first_name;last_name;user_status;roles;nickname;description;rich_editing;syntax_highlighting;admin_color;use_ssl;show_admin_bar_front;locale;wp_user_level;dismissed_wp_pointers;show_welcome_panel;session_tokens;last_update;billing_first_name;billing_last_name;billing_company;billing_email;billing_phone;billing_address_1;billing_address_2;billing_postcode;billing_city;billing_state;billing_country;shipping_first_name;shipping_last_name;shipping_company;shipping_phone;shipping_address_1;shipping_address_2;shipping_postcode;shipping_city;shipping_state;shipping_country
+10265;10265;10265;;10265;andrea.blaser@einheimischer.de;;;Streuobst Mittelfranken-West eG;Andrea;Blaser;;haendler;Streuobst Mittelfranken-West eG;;true;true;fresh;;true;;0;;;;;Andrea;Blaser;Streuobst Mittelfranken-West eG;andrea.blaser@einheimischer.de;09843 868 93 19;Rathausplatz 1;;91593;Burgbernheim;;DE;Andrea;Blaser;Streuobst Mittelfranken-West eG;09843 868 93 19;Rathausplatz 1;;91593;Burgbernheim;;DE
+10266;10266;10266;;10266;kathrin@voreck.de;;;Kathrin Voreck;Kathrin;Voreck;;haendler;Kathrin Voreck;;true;true;fresh;;true;;0;;;;;Kathrin;Voreck;Kathrin Voreck;kathrin@voreck.de;;Kirchgasse 8;;92339;Wolfsbuch;;DE;Kathrin;Voreck;Kathrin Voreck;;Kirchgasse 8;;92339;Wolfsbuch;;DE
+10270;10270;10270;;10270;annett_wiegner-sonnenzauber@gmx.de;;;Hofladen Sonnenzauber;Annett;Wiegner;;haendler;Hofladen Sonnenzauber;;true;true;fresh;;true;;0;;;;;Annett;Wiegner;Hofladen Sonnenzauber;annett_wiegner-sonnenzauber@gmx.de;;Ansbacherstr. 137;;91541;Rothenburg ob der Tauber;;DE;Annett;Wiegner;Hofladen Sonnenzauber;;Ansbacherstr. 137;;91541;Rothenburg ob der Tauber;;DE
+10273;10273;10273;;10273;info@ecenterstengel.de;;;Kulinarikwelten E-Center Stengel e.K.;;;;haendler;Kulinarikwelten E-Center Stengel e.K.;;true;true;fresh;;true;;0;;;;;;;Kulinarikwelten E-Center Stengel e.K.;info@ecenterstengel.de;0911 7230177 0;Waldstraße 101a;;90763;Fürth;;DE;;;Kulinarikwelten E-Center Stengel e.K.;0911 7230177 0;Waldstraße 101a;;90763;Fürth;;DE
+10274;10274;10274;;10274;;;;südpunkt;;;;haendler;südpunkt;;true;true;fresh;;true;;0;;;;;;;südpunkt;;;Pillenreuther Straße 147 ;;90459;Nürnberg;;DE;;;südpunkt;;Pillenreuther Straße 147 ;;90459;Nürnberg;;DE
+10275;10275;10275;;10275;guenther.steinmann@t-online.de;;;Steinmanns Hofmarkt;Günther;Steinmann;;haendler;Steinmanns Hofmarkt;;true;true;fresh;;true;;0;;;;;Günther;Steinmann;Steinmanns Hofmarkt;guenther.steinmann@t-online.de;;Ochsenfurter Straße 21;;92786;Sommerhausen;;DE;Günther;Steinmann;Steinmanns Hofmarkt;;Ochsenfurter Straße 21;;92786;Sommerhausen;;DE
+10284;10284;10284; ;10284;Antoniaduemmler@gmail.com;;;Firnkäs GbR;Antonia;Dümmler;;haendler;Firnkäs GbR;;true;true;fresh;;true;;0;;;;;Antonia;Dümmler;Firnkäs GbR;Antoniaduemmler@gmail.com;1627918396;Bösenbechhofen 1;;91315;Höchstadt/Aisch;;DE;Antonia;Dümmler;Firnkäs GbR;1627918396;Bösenbechhofen 1;;91315;Höchstadt/Aisch;;DE
+10285;10285;10285;;10285;info@weinkontor-nordsee.de;;;Weinkontor-Nordsee;Monika;Janßen;;haendler;Weinkontor-Nordsee;;true;true;fresh;;true;;0;;;;;Monika;Janßen;Weinkontor-Nordsee;info@weinkontor-nordsee.de;+4949719499635;Jücherstrasse 1-3;;26427;Esens;;DE;Monika;Janßen;Weinkontor-Nordsee;+4949719499635;Jücherstrasse 1-3;;26427;Esens;;DE
+10295;10295;10295;;10295;Rechnungseingang.atzenhof@gartenwelt-dauchenbeck.de;;;Gartenwelt Dauchenbeck e.K.;Heide;Friedrich;;haendler;Gartenwelt Dauchenbeck e.K.;;true;true;fresh;;true;;0;;;;;Heide;Friedrich;Gartenwelt Dauchenbeck e.K.;Rechnungseingang.atzenhof@gartenwelt-dauchenbeck.de;0911 9772211;Mainstraße 40;;90768;Fürth;;DE;Heide;Friedrich;Gartenwelt Dauchenbeck e.K.;0911 9772211;Mainstraße 40;;90768;Fürth;;DE
+10297;10297;10297;;10297;franzi_erler@web.de;;;Bastelei Federfrei;Franziska;Göppel;;haendler;Bastelei Federfrei;;true;true;fresh;;true;;0;;;;;Franziska;Göppel;Bastelei Federfrei;franzi_erler@web.de;0176/32768589;Alte Reichsstraße 48;;91522;Ansbach;;DE;Franziska;Göppel;Bastelei Federfrei;0176/32768589;Alte Reichsstraße 48;;91522;Ansbach;;DE
+10298;10298;10298;;10298;steven.hoffmann@rewe-kaufleute.com;;;REWE Steven Hoffmann oHG;Steven;Hoffmann;;haendler;REWE Steven Hoffmann oHG;;true;true;fresh;;true;;0;;;;;Steven;Hoffmann;REWE Steven Hoffmann oHG;steven.hoffmann@rewe-kaufleute.com;;Michael-Vogel-Straße 1A;;91052;Erlangen;;DE;Steven;Hoffmann;REWE Steven Hoffmann oHG;;Michael-Vogel-Straße 1A;;91052;Erlangen;;DE
+10299;10299;10299;;10299;alexander.petzold@rewe-kaufleute.com;;;REWE Alexander Petzold oHG;;;;haendler;REWE Alexander Petzold oHG;;true;true;fresh;;true;;0;;;;;;;REWE Alexander Petzold oHG;alexander.petzold@rewe-kaufleute.com;0954498320;Gewerbepark 3;;96149;Breitengüßbach;;DE;;;REWE Alexander Petzold oHG;0954498320;Gewerbepark 3;;96149;Breitengüßbach;;DE
+10300;10300;10300;;10300;anna.matzke@rewe-kaufleute.com;;;REWE Anna Matzke oHG;;;;haendler;REWE Anna Matzke oHG;;true;true;fresh;;true;;0;;;;;;;REWE Anna Matzke oHG;anna.matzke@rewe-kaufleute.com;09521 95480;Schweinfurter Str. 2;;97437;Haßfurt;;DE;;;REWE Anna Matzke oHG;09521 95480;Schweinfurter Str. 2;;97437;Haßfurt;;DE
+10301;10301;10301;;10301;info@rewe-marktbreit.de;;;REWE Stefan Klotz oHG;Stefan Klotz;;;haendler;REWE Stefan Klotz oHG;;true;true;fresh;;true;;0;;;;;Stefan Klotz;;REWE Stefan Klotz oHG;info@rewe-marktbreit.de;0933259390;Hafenstr. 1;;97340;Marktbreit;;DE;Stefan Klotz;;REWE Stefan Klotz oHG;0933259390;Hafenstr. 1;;97340;Marktbreit;;DE
+10302;10302;10302;;10302;info@keepersandcooks.com;;;Keepers and Cooks GmbH;Friedel;Hentrich;;haendler;Keepers and Cooks GmbH;;true;true;fresh;;true;;0;;;;;Friedel;Hentrich;Keepers and Cooks GmbH;info@keepersandcooks.com;;Adlerstraße 38;;90403;Nürnberg;;DE;Friedel;Hentrich;Keepers and Cooks GmbH;;Adlerstraße 38;;90403;Nürnberg;;DE
+10303;10303;10303;;10303;delikatessen-nuernberg@t-online.de;;;delikatEssen;Romana;Schemm;;haendler;delikatEssen;;true;true;fresh;;true;;0;;;;;Romana;Schemm;delikatEssen;delikatessen-nuernberg@t-online.de;;Weinmarkt 14;;90403;Nürnberg;;DE;Romana;Schemm;delikatEssen;;Weinmarkt 14;;90403;Nürnberg;;DE
+10304;10304;10304;;10304;alexander.schneider@deutsches-haus-hotel.de;;;Hotel Deutsches Haus;Alexander;Schneider;;haendler;Hotel Deutsches Haus;;true;true;fresh;;true;;0;;;;;Alexander;Schneider;Hotel Deutsches Haus;alexander.schneider@deutsches-haus-hotel.de;+49 9321 9169- 0;Schmiedelstr. 5;;97318;Kitzingen;;DE;Alexander;Schneider;Hotel Deutsches Haus;+49 9321 9169- 0;Schmiedelstr. 5;;97318;Kitzingen;;DE
+10305;10305;10305;;10305;Info@wagner-coburg.de;;;Frischecenter Wagner e. K.;Jörg;Wagner;;haendler;Frischecenter Wagner e. K.;;true;true;fresh;;true;;0;;;;;Jörg;Wagner;Frischecenter Wagner e. K.;Info@wagner-coburg.de;09561 512480;Niorter Straße 3c;;96450;Coburg;;DE;Jörg;Wagner;Frischecenter Wagner e. K.;09561 512480;Niorter Straße 3c;;96450;Coburg;;DE
+10306;10306;10306;;10306;rechnungspruefung@edeka-stenger.de;;;Stenger Lebensmittel GmbH & Co. KG;Alexander;Zentgraf;;haendler;Stenger Lebensmittel GmbH & Co. KG;;true;true;fresh;;true;;0;;;;;Alexander;Zentgraf;Stenger Lebensmittel GmbH & Co. KG;rechnungspruefung@edeka-stenger.de;;Siemensstr.10;;63768;Hösbach;;DE;Alexander;Zentgraf;Stenger Lebensmittel GmbH & Co. KG;;Siemensstr.10;;63768;Hösbach;;DE
+10307;10307;10307;;10307;;;;REWE Manuel Pfeffer oHG;Manuel;Pfeffer;;haendler;REWE Manuel Pfeffer oHG;;true;true;fresh;;true;;0;;;;;Manuel;Pfeffer;REWE Manuel Pfeffer oHG;;;Am Wiesengrund 100;;91732;Merkendorf;;DE;Manuel;Pfeffer;REWE Manuel Pfeffer oHG;;Am Wiesengrund 100;;91732;Merkendorf;;DE
+10308;10308;10308;;10308;email@edekaseidl.de;;;Michael Seidl e.K.;Michael;Seidl;;haendler;Michael Seidl e.K.;;true;true;fresh;;true;;0;;;;;Michael;Seidl;Michael Seidl e.K.;email@edekaseidl.de;09221 6903930;Am Goldenen Feld 2;;95326;Kulmbach;;DE;Michael;Seidl;Michael Seidl e.K.;09221 6903930;Am Goldenen Feld 2;;95326;Kulmbach;;DE
+10309;10309;10309;;10309;seidel-lieblingsei@web.de;;;Harald Seidel;;;;haendler;Harald Seidel;;true;true;fresh;;true;;0;;;;;;;Harald Seidel;seidel-lieblingsei@web.de;01607834938;Adlerstrasse 13;;90513;Zirndorf;;DE;;;Harald Seidel;01607834938;Adlerstrasse 13;;90513;Zirndorf;;DE
+10310;10310;10310;;10310;Info@spargel-prichsenstadt.de;;;Roland Zieracker;Roland;Zieracker;;haendler;Roland Zieracker;;true;true;fresh;;true;;0;;;;;Roland;Zieracker;Roland Zieracker;Info@spargel-prichsenstadt.de;017622930530;Kirchschönbacher Straße 8;;97357;Prichsenstadt;;DE;Roland;Zieracker;Roland Zieracker;017622930530;Kirchschönbacher Straße 8;;97357;Prichsenstadt;;DE
+10315;10315;10315;;10315;nbg-schoenseer@edeka-schuler.de;;;Günter Schuler e.K.;;;;haendler;Günter Schuler e.K.;;true;true;fresh;;true;;0;;;;;;;Günter Schuler e.K.;nbg-schoenseer@edeka-schuler.de;;Schönseer Straße 1;;90482;Nürnberg;;DE;;;Günter Schuler e.K.;;Schönseer Straße 1;;90482;Nürnberg;;DE
+10316;10316;10316;;10316;schmittshofladen@gmail.com;;;Schmitt‘s Hofladen;Julius;Schmitt;;haendler;Schmitt‘s Hofladen;;true;true;fresh;;true;;0;;;;;Julius;Schmitt;Schmitt‘s Hofladen;schmittshofladen@gmail.com;01713372599;Heidelberger Straße 13;;97204;Höchberg;;DE;Julius;Schmitt;Schmitt‘s Hofladen;01713372599;Heidelberger Straße 13;;97204;Höchberg;;DE
+10318;10318;10318;;10318;info@bauer-reinhart.de;;;Alfons Reinhart GmbH;Bauer;Reinhart;;haendler;Alfons Reinhart GmbH;;true;true;fresh;;true;;0;;;;;Bauer;Reinhart;Alfons Reinhart GmbH;info@bauer-reinhart.de;09554/212;Obsthof 1;;96181;Rauhenebrach;;DE;Bauer;Reinhart;Alfons Reinhart GmbH;09554/212;Obsthof 1;;96181;Rauhenebrach;;DE
+10319;10319;10319;;10319;email@edekaseidl.de;;;Michael Seidl e.K.;;;;haendler;Michael Seidl e.K.;;true;true;fresh;;true;;0;;;;;;;Michael Seidl e.K.;email@edekaseidl.de;09221 8788670;Fritz-Hornschuch-Straße 9;;95326;Kulmbach;;DE;;;Michael Seidl e.K.;09221 8788670;Fritz-Hornschuch-Straße 9;;95326;Kulmbach;;DE
+10320;10320;10320;;10320;info@spargel-rehm.de;;;Spargel Rehm;Josef;Rehm;;haendler;Spargel Rehm;;true;true;fresh;;true;;0;;;;;Josef;Rehm;Spargel Rehm;info@spargel-rehm.de;+4915117847201;Bachwiesenweg 1;;86529;Schrobenhausen;;DE;Josef;Rehm;Spargel Rehm;+4915117847201;Bachwiesenweg 1;;86529;Schrobenhausen;;DE
+10324;10324;10324;;10324;Kartoffelhof.kress@gmail.com;;;Hoflädle Kreß GbR;Michael;Kreß;;haendler;Hoflädle Kreß GbR;;true;true;fresh;;true;;0;;;;;Michael;Kreß;Hoflädle Kreß GbR;Kartoffelhof.kress@gmail.com;01732491011;Möckmühlerstraße;;74239;Hardthausen am Kocher;;DE;Michael;Kreß;Hoflädle Kreß GbR;01732491011;Möckmühlerstraße;;74239;Hardthausen am Kocher;;DE
+10325;10325;10325;;10325;Christinakagerer@gmx.de;;;Landwirtschaft Jörg Kagerer;Jörg;Kagerer;;haendler;Landwirtschaft Jörg Kagerer;;true;true;fresh;;true;;0;;;;;Jörg;Kagerer;Landwirtschaft Jörg Kagerer;Christinakagerer@gmx.de;01778894988;Irlacher Dorfstr. 5;;92442;Wackersdorf;;DE;Jörg;Kagerer;Landwirtschaft Jörg Kagerer;01778894988;Irlacher Dorfstr. 5;;92442;Wackersdorf;;DE
+10326;10326;10326;;10326;info@rewe-kolbe.de;;;Rewe Martin Kolbe OHG;Martin;Kolbe;;haendler;Rewe Martin Kolbe OHG;;true;true;fresh;;true;;0;;;;;Martin;Kolbe;Rewe Martin Kolbe OHG;info@rewe-kolbe.de;09572 38170;Weismainer Str. 17. ;;96264;Altenkunstadt;;DE;Martin;Kolbe;Rewe Martin Kolbe OHG;09572 38170;Weismainer Str. 17. ;;96264;Altenkunstadt;;DE
+10327;10327;10327;;10327;rewe.baer@gmail.com;;;Rewe Felix Bär oHG;Felix;Bär;;haendler;Rewe Felix Bär oHG;;true;true;fresh;;true;;0;;;;;Felix;Bär;Rewe Felix Bär oHG;rewe.baer@gmail.com;09252 9699850;Frankenstraße 15;;95233;Helmbrechts;;DE;Felix;Bär;Rewe Felix Bär oHG;09252 9699850;Frankenstraße 15;;95233;Helmbrechts;;DE
+10328;10328;10328;;10328;gr.christine@web.de;;;Graf Christine;Christine;Graf;;haendler;Graf Christine;;true;true;fresh;;true;;0;;;;;Christine;Graf;Graf Christine;gr.christine@web.de;01719577436;Altendorferstr. 8;;91330;Neuses;;DE;Christine;Graf;Graf Christine;01719577436;Altendorferstr. 8;;91330;Neuses;;DE
+10329;10329;10329;;10329;zellingen@trabold-markt.de;;;Trabold Frischemarkt;H.;Laux;;haendler;Trabold Frischemarkt;;true;true;fresh;;true;;0;;;;;H.;Laux;Trabold Frischemarkt;zellingen@trabold-markt.de;09364 2559;Würzburger Straße 100;;97225;Zellingen;;DE;H.;Laux;Trabold Frischemarkt;09364 2559;Würzburger Straße 100;;97225;Zellingen;;DE
+10330;10330;10330;;10330;sanderau@trabold-markt.de;;;Trabold Frischecenter;Herr;Martin;;haendler;Trabold Frischecenter;;true;true;fresh;;true;;0;;;;;Herr;Martin;Trabold Frischecenter;sanderau@trabold-markt.de;0931 3592080;Randersackerer Str. 53;;97072;Würzburg;;DE;Herr;Martin;Trabold Frischecenter;0931 3592080;Randersackerer Str. 53;;97072;Würzburg;;DE
+10331;10331;10331;;10331;menuenden@trabold-markt.de;;;Trabold Frischecenter;H.;Dietrich;;haendler;Trabold Frischecenter;;true;true;fresh;;true;;0;;;;;H.;Dietrich;Trabold Frischecenter;menuenden@trabold-markt.de;09351 6044930;Weißensteinstraße 2-4;;97737;Gemünden;;DE;H.;Dietrich;Trabold Frischecenter;09351 6044930;Weißensteinstraße 2-4;;97737;Gemünden;;DE
+10337;10337;10337;;10337;martin.kress@morgentau.de;;;Spargel- und Erdbeerhof Kreß GbR;;;;haendler;Spargel- und Erdbeerhof Kreß GbR;;true;true;fresh;;true;;0;;;;;;;Spargel- und Erdbeerhof Kreß GbR;martin.kress@morgentau.de;;Königsstraße 9;;91086;Aurachtal;;DE;;;Spargel- und Erdbeerhof Kreß GbR;;Königsstraße 9;;91086;Aurachtal;;DE
+10338;10338;10338;;10338;HeimatGarage-Schesslitz@web.de;;;HeimatGarage;Nadine;Groh;;haendler;HeimatGarage;;true;true;fresh;;true;;0;true;true;fresh;;Nadine;Groh;HeimatGarage;HeimatGarage-Schesslitz@web.de;01792998798;Am Loh 8;;96110;Schesslitz;;DE;Nadine;Groh;HeimatGarage;01792998798;Am Loh 8;;96110;Schesslitz;;DE
+10340;10340;10340;;10340;info@rangau-spargel.de;;;Georg Peter Landwirtschaft & Spargelhof;Georg;Peter;;haendler;Georg Peter Landwirtschaft & Spargelhof;;true;true;fresh;;true;;0;true;true;fresh;;Georg;Peter;Georg Peter Landwirtschaft & Spargelhof;info@rangau-spargel.de;015112188450;Bachstraße, 7;;90522;Oberasbach;;DE;Georg;Peter;Georg Peter Landwirtschaft & Spargelhof;015112188450;Bachstraße, 7;;90522;Oberasbach;;DE
+10341;10341;10341;;10341;info@hofundladen.de;;;Burmanns HofundLaden;Martin;Burmann;;haendler;Burmanns HofundLaden;;true;true;fresh;;true;;0;true;true;fresh;;Martin;Burmann;Burmanns HofundLaden;info@hofundladen.de;0917163413;Heidenbergstr 12;;91154;Roth - Pfaffemhofen;;DE;Martin;Burmann;Burmanns HofundLaden;0917163413;Heidenbergstr 12;;91154;Roth - Pfaffemhofen;;DE
+10342;10342;10342;;10342;info@weinwerk.de;;;Wein Wolff;Jeffrey;Wolff;;haendler;Wein Wolff;;true;true;fresh;;true;;0;true;true;fresh;;Jeffrey;Wolff;Wein Wolff;info@weinwerk.de;09117417141;Hans-Vogel-Str. 45;;90765;Fürth;;DE;Jeffrey;Wolff;Wein Wolff;09117417141;Hans-Vogel-Str. 45;;90765;Fürth;;DE
+10347;10347;10347;;10347;der-krausenbaeck@web.de;;;Bäckerei Johannes Schwarz e.K.;Lisa;Jordan;;haendler;Bäckerei Johannes Schwarz e.K.;;true;true;fresh;;true;;0;true;true;fresh;;Lisa;Jordan;Bäckerei Johannes Schwarz e.K.;der-krausenbaeck@web.de;09188 7030850;Neumarkter Straße 25;;92353;Postbauer-Heng;;DE;Lisa;Jordan;Bäckerei Johannes Schwarz e.K.;09188 7030850;Neumarkter Straße 25;;92353;Postbauer-Heng;;DE
+10348;10348;10348;;10348;info@deuerlein.com;;;Deuerlein Buch & Wein & Caffé;Tom;Deuerlein;;haendler;Deuerlein Buch & Wein & Caffé;;true;true;fresh;;true;;0;true;true;fresh;;Tom;Deuerlein;Deuerlein Buch & Wein & Caffé;info@deuerlein.com;0911 222707;Lorenzer Strasse 33;;90402;Nürnberg;;DE;Tom;Deuerlein;Deuerlein Buch & Wein & Caffé;0911 222707;Lorenzer Strasse 33;;90402;Nürnberg;;DE
+10354;10354;10354;;10354;Buchhaltung@rewe-kneuer.de;;;REWE Pascal Kneuer oHG;Hanna;Stengel;;haendler;REWE Pascal Kneuer oHG;;true;true;fresh;;true;;0;true;true;fresh;;Hanna;Stengel;REWE Pascal Kneuer oHG;Buchhaltung@rewe-kneuer.de;;Lichtenfelser Str. 2a ;;90427;Nürnberg Boxdorf;;DE;Hanna;Stengel;REWE Pascal Kneuer oHG;;Lichtenfelser Str. 2a ;;90427;Nürnberg Boxdorf;;DE
+10355;10355;10355;;10355;Buchhaltung@rewe-kneuer.de;;;REWE Pascal Kneuer oHG;Martin;Kuno;;haendler;REWE Pascal Kneuer oHG;;true;true;fresh;;true;;0;true;true;fresh;;Martin;Kuno;REWE Pascal Kneuer oHG;Buchhaltung@rewe-kneuer.de;;Schleifweg 1;;90562;Heroldsberg ;;DE;Martin;Kuno;REWE Pascal Kneuer oHG;;Schleifweg 1;;90562;Heroldsberg ;;DE
+10356;10356;10356;;10356;rechnungseingang.stein@gartenwelt-dauchenbeck.de;;;Gartenwelt Dauchenbeck GmbH & Co. KG;;;;haendler;Gartenwelt Dauchenbeck GmbH & Co. KG;;true;true;fresh;;true;;0;true;true;fresh;;;;Gartenwelt Dauchenbeck GmbH & Co. KG;rechnungseingang.stein@gartenwelt-dauchenbeck.de;0911 97722500;Am Jakobsweg 15;;90547;Stein-Oberweihersbuch;;DE;;;Gartenwelt Dauchenbeck GmbH & Co. KG;0911 97722500;Am Jakobsweg 15;;90547;Stein-Oberweihersbuch;;DE
+10361;10361;10361;;10361;juergen.mueller@rewe-kaufleute.com;;;Rewe Jürgen Müller oHG;;;;haendler;Rewe Jürgen Müller oHG;;true;true;fresh;;true;;0;true;true;fresh;;;;Rewe Jürgen Müller oHG;juergen.mueller@rewe-kaufleute.com;09195 9291469;Lohmühlweg 10;;91341;Röttenbach;;DE;;;Rewe Jürgen Müller oHG;09195 9291469;Lohmühlweg 10;;91341;Röttenbach;;DE
+10362;10362;10362;;10362;;;;Park Gastro GmbH;Insea Bogner;;;haendler;Park Gastro GmbH;;true;true;fresh;;true;;0;true;true;fresh;;Insea Bogner;;Park Gastro GmbH;;;Berliner Platz 9  ;;90409;Nürnberg;;DE;Insea Bogner;;Park Gastro GmbH;;Berliner Platz 9  ;;90409;Nürnberg;;DE
+10368;10368;10368;;10368;rechnungspruefung@edeka-stenger.de;;;Stenger Lebensmittel GmbH & Co. KG;;;;haendler;Stenger Lebensmittel GmbH & Co. KG;;true;true;fresh;;true;;0;true;true;fresh;;;;Stenger Lebensmittel GmbH & Co. KG;rechnungspruefung@edeka-stenger.de;;Würzburger Str.188;;63743;Aschaffenburg;;DE;;;Stenger Lebensmittel GmbH & Co. KG;;Würzburger Str.188;;63743;Aschaffenburg;;DE
+10369;10369;10369;;10369;rechnungspruefung@edeka-stenger.de;;;Stenger Lebensmittel GmbH & Co. KG;;;;haendler;Stenger Lebensmittel GmbH & Co. KG;;true;true;fresh;;true;;0;true;true;fresh;;;;Stenger Lebensmittel GmbH & Co. KG;rechnungspruefung@edeka-stenger.de;;Aschaffenburger Str.46;;63762;Großostheim;;DE;;;Stenger Lebensmittel GmbH & Co. KG;;Aschaffenburger Str.46;;63762;Großostheim;;DE
+10370;10370;10370;;10370;rechnungspruefung@edeka-stenger.de;;;Walter Stenger;;;;haendler;Walter Stenger;;true;true;fresh;;true;;0;true;true;fresh;;;;Walter Stenger;rechnungspruefung@edeka-stenger.de;;Siemensstr.10;;63768;Hösbach;;DE;;;Walter Stenger;;Siemensstr.10;;63768;Hösbach;;DE
+10371;10371;10371;;10371;rechnungspruefung@edeka-stenger.de;;;Stenger Lebensmittel GmbH & Co. KG;;;;haendler;Stenger Lebensmittel GmbH & Co. KG;;true;true;fresh;;true;;0;true;true;fresh;;;;Stenger Lebensmittel GmbH & Co. KG;rechnungspruefung@edeka-stenger.de;;Mainzer Straße 40;;63897;Miltenberg;;DE;;;Stenger Lebensmittel GmbH & Co. KG;;Mainzer Straße 40;;63897;Miltenberg;;DE
+10372;10372;10372;;10372;rechnungspruefung@edeka-stenger.de;;;Stenger Großflächen OHG;;;;haendler;Stenger Großflächen OHG;;true;true;fresh;;true;;0;true;true;fresh;;;;Stenger Großflächen OHG;rechnungspruefung@edeka-stenger.de;;Horchstraße 120;;63741;Aschaffenburg;;DE;;;Stenger Großflächen OHG;;Horchstraße 120;;63741;Aschaffenburg;;DE
+10373;10373;10373;;10373;team@dasalois.de;;;Alois Nürnberg GmbH;Ralph;Fellner;;haendler;Alois Nürnberg GmbH;;true;true;fresh;;true;;0;true;true;fresh;;Ralph;Fellner;Alois Nürnberg GmbH;team@dasalois.de;091123738800;Bergstraße 30;;90403;Nürnberg;;DE;Ralph;Fellner;Alois Nürnberg GmbH;091123738800;Bergstraße 30;;90403;Nürnberg;;DE
+10374;10374;10374;;10374;info@mueller-modlos.de;;;Obsthof Müller Hofladen GbR;Jochen und Katharina;Müller;;haendler;Obsthof Müller Hofladen GbR;;true;true;fresh;;true;;0;true;true;fresh;;Jochen und Katharina;Müller;Obsthof Müller Hofladen GbR;info@mueller-modlos.de;097441084;Kirchweg 9;;97789;Oberleichtersbach;;DE;Jochen und Katharina;Müller;Obsthof Müller Hofladen GbR;097441084;Kirchweg 9;;97789;Oberleichtersbach;;DE
+10375;10375;10375;;10375;huehnerhof-lehr@t-online.de;;;Hühnerhof Lehr;Matthias;Lehr;;haendler;Hühnerhof Lehr;;true;true;fresh;;true;;0;true;true;fresh;;Matthias;Lehr;Hühnerhof Lehr;huehnerhof-lehr@t-online.de;+4998230000000;Dinkelsbühler Straße 2a;;91596;Burk;;DE;Matthias;Lehr;Hühnerhof Lehr;+4998230000000;Dinkelsbühler Straße 2a;;91596;Burk;;DE
+10384;10384;10384;;10384;info@altmuehlmarkt.de;;;Christian Neulinger;Christian;Neulinger;;haendler;Christian Neulinger;;true;true;fresh;;true;;0;true;true;fresh;;Christian;Neulinger;Christian Neulinger;info@altmuehlmarkt.de;01752971987;Geislohe 62;;91788;Pappenheim;;DE;Christian;Neulinger;Christian Neulinger;01752971987;Geislohe 62;;91788;Pappenheim;;DE
+10385;10385;10385;;10385;ivt.sommerach@t-online.de;;;InfoVinothek Sommerach GbR;Heike;Prestele;;haendler;InfoVinothek Sommerach GbR;;true;true;fresh;;true;;0;true;true;fresh;;Heike;Prestele;InfoVinothek Sommerach GbR;ivt.sommerach@t-online.de;093817187939;Kirchplatz 3;;97334;Sommerach;;DE;Heike;Prestele;InfoVinothek Sommerach GbR;093817187939;Kirchplatz 3;;97334;Sommerach;;DE
+10386;10386;10386;;10386;kerler.gussenstadt@t-online.de;;;Landmetzgerei Kerler;Markus;Kerler;;haendler;Landmetzgerei Kerler;;true;true;fresh;;true;;0;true;true;fresh;;Markus;Kerler;Landmetzgerei Kerler;kerler.gussenstadt@t-online.de;01727596042;Aussiedlerhof Hagehülbe 1;;89547;Gerstetten Gussenstadt;;DE;Markus;Kerler;Landmetzgerei Kerler;01727596042;Aussiedlerhof Hagehülbe 1;;89547;Gerstetten Gussenstadt;;DE
+10396;10396;10396;;10396;Manuel.knoechelmann@web.de;;;Konditorei Kaffee Knöchelmann;Manuel;Knöchelmann;;haendler;Konditorei Kaffee Knöchelmann;;true;true;fresh;;true;;0;true;true;fresh;;Manuel;Knöchelmann;Konditorei Kaffee Knöchelmann;Manuel.knoechelmann@web.de;015772158996;Röthenbacher Hauptstr. 54;;90449;Nürnberg;;DE;Manuel;Knöchelmann;Konditorei Kaffee Knöchelmann;015772158996;Röthenbacher Hauptstr. 54;;90449;Nürnberg;;DE
+10397;10397;10397;;10397;julia.martin7802@gmail.com;;;Landwirtschaft Jutta Martin;Jutta;Martin;;haendler;Landwirtschaft Jutta Martin;;true;true;fresh;;true;;0;true;true;fresh;;Jutta;Martin;Landwirtschaft Jutta Martin;julia.martin7802@gmail.com;015170017782;Friedrichstraße 13;;91126;Kammerstein;;DE;Jutta;Martin;Landwirtschaft Jutta Martin;015170017782;Friedrichstraße 13;;91126;Kammerstein;;DE
+10402;10402;10402;;10402;info@buxlhof.de;;;Buxlhof Gutes aus Rapperszell;Bernhard;Hüttinger;;haendler;Buxlhof Gutes aus Rapperszell;;true;true;fresh;;true;;0;true;true;fresh;;Bernhard;Hüttinger;Buxlhof Gutes aus Rapperszell;info@buxlhof.de;084269859855;Jurastraße 8a;;85137;Rapperszell;;DE;Bernhard;Hüttinger;Buxlhof Gutes aus Rapperszell;084269859855;Jurastraße 8a;;85137;Rapperszell;;DE
+10403;10403;10403;;10403;Johannes.Kleinle@web.de;;;Alois Kleinle;;;;haendler;Alois Kleinle;;true;true;fresh;;true;;0;true;true;fresh;;;;Alois Kleinle;Johannes.Kleinle@web.de;016095462135;Hauptstraße 11;;86700;Otting;;DE;;;Alois Kleinle;016095462135;Hauptstraße 11;;86700;Otting;;DE
+10404;10404;10404;;10404;matthias.froehlich@rewe-kaufleute.com;;;Rewe Fröhlich OHg;;;;haendler;Rewe Fröhlich OHg;;true;true;fresh;;true;;0;true;true;fresh;;;;Rewe Fröhlich OHg;matthias.froehlich@rewe-kaufleute.com;;An der Breitenau 2;;96052;Bamberg;;DE;;;Rewe Fröhlich OHg;;An der Breitenau 2;;96052;Bamberg;;DE
+10405;10405;10405;;10405;mirjam.knapp.2308@gmx.net;;;Harald Prechtel;Mirjam;Prechtel-Knapp;;haendler;Harald Prechtel;;true;true;fresh;;true;;0;true;true;fresh;;Mirjam;Prechtel-Knapp;Harald Prechtel;mirjam.knapp.2308@gmx.net;091631016;Voggendorf 26;;91486;Uehlfeld;;DE;Mirjam;Prechtel-Knapp;Harald Prechtel;091631016;Voggendorf 26;;91486;Uehlfeld;;DE
+10406;10406;10406;;10406;info@dasquasimodo.de;;;Das Quasimodo;Andreas;Bohnstedt;;haendler;Das Quasimodo;;true;true;fresh;;true;;0;true;true;fresh;;Andreas;Bohnstedt;Das Quasimodo;info@dasquasimodo.de;01735247289;Am Kreuzweiher 4;;91746;Weidenbach;;DE;Andreas;Bohnstedt;Das Quasimodo;01735247289;Am Kreuzweiher 4;;91746;Weidenbach;;DE
+10416;10416;10416;;10416;blauberger@gmx.net;;;Blaubergerger Obst- u. Getränkemarkt;;;;haendler;Blaubergerger Obst- u. Getränkemarkt;;true;true;fresh;;true;;0;true;true;fresh;;;;Blaubergerger Obst- u. Getränkemarkt;blauberger@gmx.net;09861 7362;Erlbacher Straße 84;;91541;Rothenburg ob der Tauber;;DE;;;Blaubergerger Obst- u. Getränkemarkt;09861 7362;Erlbacher Straße 84;;91541;Rothenburg ob der Tauber;;DE
+10418;10418;10418;;10418;info@unser-kleiner-laden.de;;;Unser kleiner Laden GbR.;Alexander;Geyer;;haendler;Unser kleiner Laden GbR.;;true;true;fresh;;true;;0;true;true;fresh;;Alexander;Geyer;Unser kleiner Laden GbR.;info@unser-kleiner-laden.de;01726752995;Gänsig 8;;97453;Löffelsterz;;DE;Alexander;Geyer;Unser kleiner Laden GbR.;01726752995;Gänsig 8;;97453;Löffelsterz;;DE
+10423;10423;10423;;10423;gradl@whiskyfaessla.de;;;Gradls Whiskyfässla;Michael;Gradl;;haendler;Gradls Whiskyfässla;;true;true;fresh;;true;;0;true;true;fresh;;Michael;Gradl;Gradls Whiskyfässla;gradl@whiskyfaessla.de;+49 911 8370300;Oelser Strasse 7a;;90475; Nürnberg;;DE;Michael;Gradl;Gradls Whiskyfässla;+49 911 8370300;Oelser Strasse 7a;;90475; Nürnberg;;DE
+10424;10424;10424;;10424;malt-brothers@t-online.de;;;Malt-Brothers;Klaus;Maier;;haendler;Malt-Brothers;;true;true;fresh;;true;;0;true;true;fresh;;Klaus;Maier;Malt-Brothers;malt-brothers@t-online.de;06443812233;Am Messengraben 3;;35630;Ehringshausen;;DE;Klaus;Maier;Malt-Brothers;06443812233;Am Messengraben 3;;35630;Ehringshausen;;DE
+10425;10425;10425;;10425;info@main-center-mehlig.de;;;Main-Center Mehlig e.K.;Andrea;Mehlig;;haendler;Main-Center Mehlig e.K.;;true;true;fresh;;true;;0;true;true;fresh;;Andrea;Mehlig;Main-Center Mehlig e.K.;info@main-center-mehlig.de;0931-991260;Oberdürrbacher Str. 2;;97209;Veitshöchheim;;DE;Andrea;Mehlig;Main-Center Mehlig e.K.;0931-991260;Oberdürrbacher Str. 2;;97209;Veitshöchheim;;DE
+10426;10426;10426;;10426;gebsattel@die-frischemacher.de;;;Genuss & Harmonie Gastronomie GmbH;;;;haendler;Genuss & Harmonie Gastronomie GmbH;;true;true;fresh;;true;;0;true;true;fresh;;;;Genuss & Harmonie Gastronomie GmbH;gebsattel@die-frischemacher.de;;Olympiaring 2;;91074;Herzogenaurach;;DE;;;Genuss & Harmonie Gastronomie GmbH;;Olympiaring 2;;91074;Herzogenaurach;;DE
+10429;10429;10429;;10429;Buchhaltung@rewe-kneuer.de;;;REWE Pascal Kneuer oHG;;;;haendler;REWE Pascal Kneuer oHG;;true;true;fresh;;true;;0;true;true;fresh;;;;REWE Pascal Kneuer oHG;Buchhaltung@rewe-kneuer.de;;Karl-Zucker-Str. 10  ;;91052;Erlangen;;DE;;;REWE Pascal Kneuer oHG;;Karl-Zucker-Str. 10  ;;91052;Erlangen;;DE
+10430;10430;10430;;10430;;;;Lebensmittel Markus Bichler;;;;haendler;Lebensmittel Markus Bichler;;true;true;fresh;;true;;0;true;true;fresh;;;;Lebensmittel Markus Bichler;;08203 963215;Hauptstraße 31;;86507;Kleinaitingen;;DE;;;Lebensmittel Markus Bichler;08203 963215;Hauptstraße 31;;86507;Kleinaitingen;;DE
+10431;10431;10431;;10431;info@gleichners.de;;;Gleichner's Wine & Spirits GmbH;Jörg Timo;Gleichner;;haendler;Gleichner's Wine & Spirits GmbH;;true;true;fresh;;true;;0;true;true;fresh;;Jörg Timo;Gleichner;Gleichner's Wine & Spirits GmbH;info@gleichners.de;01602486890;Obere Wässere 4;;72764;Reutlingen;;DE;Jörg Timo;Gleichner;Gleichner's Wine & Spirits GmbH;01602486890;Obere Wässere 4;;72764;Reutlingen;;DE
+10432;10432;10432;;10432;Spirit@simon-brennt.de;;;Feinbrennerei Simon's;Severin;Simon;;haendler;Feinbrennerei Simon's;;true;true;fresh;;true;;0;true;true;fresh;;Severin;Simon;Feinbrennerei Simon's;Spirit@simon-brennt.de;060235072191;Dörsthof 4;;63755;Alzenau;;DE;Severin;Simon;Feinbrennerei Simon's;060235072191;Dörsthof 4;;63755;Alzenau;;DE
+10436;10436;10436;;10436;walerhof@gmx.de;;;Landwirtschaft Alexander Weigl;Alexander;Weigl;;haendler;Landwirtschaft Alexander Weigl;;true;true;fresh;;true;;0;true;true;fresh;;Alexander;Weigl;Landwirtschaft Alexander Weigl;walerhof@gmx.de;01707839466;Pilmersreuth a. d. Str. 19;;95643;Tirschenreuth;;DE;Alexander;Weigl;Landwirtschaft Alexander Weigl;01707839466;Pilmersreuth a. d. Str. 19;;95643;Tirschenreuth;;DE
+10439;10439;10439;;10439;irmgard261@gmx.de;;;Martin Vogel;Irmgard;Vogel;;haendler;Martin Vogel;;true;true;fresh;;true;;0;true;true;fresh;;Irmgard;Vogel;Martin Vogel;irmgard261@gmx.de;;Greuth 7;;90455;Nürnberg;;DE;Irmgard;Vogel;Martin Vogel;;Greuth 7;;90455;Nürnberg;;DE
+10440;10440;10440;;10440;schallerhof@gmx.de;;;Robert Schaller;Robert;Schaller;;haendler;Robert Schaller;;true;true;fresh;;true;;0;true;true;fresh;;Robert;Schaller;Robert Schaller;schallerhof@gmx.de;01751633092;Rangaustrasse.22;;90530;Wendelstein;;DE;Robert;Schaller;Robert Schaller;01751633092;Rangaustrasse.22;;90530;Wendelstein;;DE
+10441;10441;10441;;10441;AeibernzennerSB-Haisla@t-online.de;;;Äibernzenner SB-Haisla, Kerstin Schöpf;Kerstin;Schöpf;;haendler;Äibernzenner SB-Haisla, Kerstin Schöpf;;true;true;fresh;;true;;0;true;true;fresh;;Kerstin;Schöpf;Äibernzenner SB-Haisla, Kerstin Schöpf;AeibernzennerSB-Haisla@t-online.de;01607563656;Kellerhausstr. 4;;91619;Obernzenn;;DE;Kerstin;Schöpf;Äibernzenner SB-Haisla, Kerstin Schöpf;01607563656;Kellerhausstr. 4;;91619;Obernzenn;;DE
+10442;10442;10442;;10442;servus@heimatprodukte.de;;;heimatprodukte.de - Marcus Fabian;Marcus;Fabian;;haendler;heimatprodukte.de - Marcus Fabian;;true;true;fresh;;true;;0;true;true;fresh;;Marcus;Fabian;heimatprodukte.de - Marcus Fabian;servus@heimatprodukte.de;01608840998;Wigerleinweg 1;;91550;Dinkelsbühl;;DE;Marcus;Fabian;heimatprodukte.de - Marcus Fabian;01608840998;Wigerleinweg 1;;91550;Dinkelsbühl;;DE
+10444;10444;10444;;10444;info@grillmeierhof.de;;;Grillmeierhof;;;;haendler;Grillmeierhof;;true;true;fresh;;true;;0;true;true;fresh;;;;Grillmeierhof;info@grillmeierhof.de;09637 1088;Konnersreuth 2;;95703;Plößberg;;DE;;;Grillmeierhof;09637 1088;Konnersreuth 2;;95703;Plößberg;;DE
+10445;10445;10445;;10445;mail@zehmerhof.de;;;Zehmerhof Hofladen;;;;haendler;Zehmerhof Hofladen;;true;true;fresh;;true;;0;true;true;fresh;;;;Zehmerhof Hofladen;mail@zehmerhof.de;;Markt Schwabener Str. 24;;85652;Gelting;;DE;;;Zehmerhof Hofladen;;Markt Schwabener Str. 24;;85652;Gelting;;DE
+10446;10446;10446;;10446;info@getraenke-hirth.de;;;Getränke Hirth;Frau;Krieger;;haendler;Getränke Hirth;;true;true;fresh;;true;;0;true;true;fresh;;Frau;Krieger;Getränke Hirth;info@getraenke-hirth.de;09335 99950;Uffenheimer Straße 8;;97239;Aub;;DE;Frau;Krieger;Getränke Hirth;09335 99950;Uffenheimer Straße 8;;97239;Aub;;DE
+10447;10447;10447;;10447;anetteschweigert@gmail.com;;;Der Hofladen Schweigert;Anette;Schweigert;;haendler;Der Hofladen Schweigert;;true;true;fresh;;true;;0;true;true;fresh;;Anette;Schweigert;Der Hofladen Schweigert;anetteschweigert@gmail.com;07973 6473;Dorfstraße 10;;74423;Obersontheim;;DE;Anette;Schweigert;Der Hofladen Schweigert;07973 6473;Dorfstraße 10;;74423;Obersontheim;;DE
+10448;10448;10448;;10448;gerlinde_belz@web.de;;;Hofladen Belz;Gerlinde;Belz;;haendler;Hofladen Belz;;true;true;fresh;;true;;0;true;true;fresh;;Gerlinde;Belz;Hofladen Belz;gerlinde_belz@web.de;07268 319;Adersbacherstr. 50;;74906;Babstadt;;DE;Gerlinde;Belz;Hofladen Belz;07268 319;Adersbacherstr. 50;;74906;Babstadt;;DE
+10449;10449;10449;;10449;waldhaeuser-hoflaedle@web.de;;;Waldhäuser Hoflädle;;;;haendler;Waldhäuser Hoflädle;;true;true;fresh;;true;;0;true;true;fresh;;;;Waldhäuser Hoflädle;waldhaeuser-hoflaedle@web.de;07172 8861;Herbstwiesenäcker 4;;73547;Lorch;;DE;;;Waldhäuser Hoflädle;07172 8861;Herbstwiesenäcker 4;;73547;Lorch;;DE
+10450;10450;10450;;10450;info@bachbauernhof.de;;;Bachbauernhof Hofladen;Florian;Paletta;;haendler;Bachbauernhof Hofladen;;true;true;fresh;;true;;0;true;true;fresh;;Florian;Paletta;Bachbauernhof Hofladen;info@bachbauernhof.de;08276 219;Rainer Straße 8;;86684;Holzheim;;DE;Florian;Paletta;Bachbauernhof Hofladen;08276 219;Rainer Straße 8;;86684;Holzheim;;DE
+10452;10452;10452;;10452;hofladen6a@e.mail.de;;;Hofladen 6a GbR;Anja;Böswald;;haendler;Hofladen 6a GbR;;true;true;fresh;;true;;0;true;true;fresh;;Anja;Böswald;Hofladen 6a GbR;hofladen6a@e.mail.de;08422 987824;Solastraße 6a;;91795;Eberswang;;DE;Anja;Böswald;Hofladen 6a GbR;08422 987824;Solastraße 6a;;91795;Eberswang;;DE
+10453;10453;10453;;10453;info@bauernladen-holzer.de;;;Bauernladen Holzer;Frau;Holzer;;haendler;Bauernladen Holzer;;true;true;fresh;;true;;0;true;true;fresh;;Frau;Holzer;Bauernladen Holzer;info@bauernladen-holzer.de;09443 992042;Schwaighausener Str. 3;;93326;Abensberg;;DE;Frau;Holzer;Bauernladen Holzer;09443 992042;Schwaighausener Str. 3;;93326;Abensberg;;DE
+10454;10454;10454;;10454;hofvermarktung-sippl@t-online.de;;;Hofvermarktung Sippl;;;;haendler;Hofvermarktung Sippl;;true;true;fresh;;true;;0;true;true;fresh;;;;Hofvermarktung Sippl;hofvermarktung-sippl@t-online.de;08460 397;Raitenbuch E5;;92334;Berching;;DE;;;Hofvermarktung Sippl;08460 397;Raitenbuch E5;;92334;Berching;;DE
+10455;10455;10455;;10455;;;;Metbauernhof Adolf Scharf;Frau;Scharf;;haendler;Metbauernhof Adolf Scharf;;true;true;fresh;;true;;0;true;true;fresh;;Frau;Scharf;Metbauernhof Adolf Scharf;;09621 82857;Gärmersdorfer Weg 7;;92245;Kümmersbruck;;DE;Frau;Scharf;Metbauernhof Adolf Scharf;09621 82857;Gärmersdorfer Weg 7;;92245;Kümmersbruck;;DE
+10456;10456;10456;;10456;info@griesslhof.de;;;Alexander Balk;Elfriede;Balk;;haendler;Alexander Balk;;true;true;fresh;;true;;0;true;true;fresh;;Elfriede;Balk;Alexander Balk;info@griesslhof.de;09652 1256;Burkhardsrieth 4;;92714;Pleystein;;DE;Elfriede;Balk;Alexander Balk;09652 1256;Burkhardsrieth 4;;92714;Pleystein;;DE
+10457;10457;10457;;10457;adamhof@arcor.de;;;Juliane Schnurrer;;;;haendler;Juliane Schnurrer;;true;true;fresh;;true;;0;true;true;fresh;;;;Juliane Schnurrer;adamhof@arcor.de;09638 370;Hardeck 8;;95698;Neualbenreuth;;DE;;;Juliane Schnurrer;09638 370;Hardeck 8;;95698;Neualbenreuth;;DE
+10458;10458;10458;;10458;daniela.sonnenhof@web.de;;;Sonnenhof Vermarktungs GmbH & Co.KG;Daniela;Murr;;haendler;Sonnenhof Vermarktungs GmbH & Co.KG;;true;true;fresh;;true;;0;true;true;fresh;;Daniela;Murr;Sonnenhof Vermarktungs GmbH & Co.KG;daniela.sonnenhof@web.de;09085340;Sonnenhof 1;;86733;Alerheim-Rudelstetten;;DE;Daniela;Murr;Sonnenhof Vermarktungs GmbH & Co.KG;09085340;Sonnenhof 1;;86733;Alerheim-Rudelstetten;;DE
+10459;10459;10459;;10459;info@wiesenlilli.de;;;Wiesenlilli;Stefan;Schmid;;haendler;Wiesenlilli;;true;true;fresh;;true;;0;true;true;fresh;;Stefan;Schmid;Wiesenlilli;info@wiesenlilli.de;015755947651;Nikolaus-Mölter-Straße 11;;97475;Zeil;;DE;Stefan;Schmid;Wiesenlilli;015755947651;Nikolaus-Mölter-Straße 11;;97475;Zeil;;DE
+10460;10460;10460;;10460;info@delicado-weinhandel.de;;;Delicado - Weinhandel & Feinkost;Kerstin;Schug;;haendler;Delicado - Weinhandel & Feinkost;;true;true;fresh;;true;;0;true;true;fresh;;Kerstin;Schug;Delicado - Weinhandel & Feinkost;info@delicado-weinhandel.de;0961 40194195;Postgasse 2;;92637;Weiden;;DE;Kerstin;Schug;Delicado - Weinhandel & Feinkost;0961 40194195;Postgasse 2;;92637;Weiden;;DE
+10461;10461;10461;;10461;info@carlbauer.de;;;Bernhard Frischeisen;Bernhard;Frischeisen;;haendler;Bernhard Frischeisen;;true;true;fresh;;true;;0;true;true;fresh;;Bernhard;Frischeisen;Bernhard Frischeisen;info@carlbauer.de;09441 50380;Schloßbuckel 4;;93309;Kehlheim;;DE;Bernhard;Frischeisen;Bernhard Frischeisen;09441 50380;Schloßbuckel 4;;93309;Kehlheim;;DE
+10462;10462;10462;;10462;thomas.retzer@vrbank-amberg.de;;;Volksbank-Raiffeisenbank Amberg eG;Thomas;Retzer;;haendler;Volksbank-Raiffeisenbank Amberg eG;;true;true;fresh;;true;;0;true;true;fresh;;Thomas;Retzer;Volksbank-Raiffeisenbank Amberg eG;thomas.retzer@vrbank-amberg.de;09621479164;Weinstr. 3-9;;92224;Amberg;;DE;Thomas;Retzer;Volksbank-Raiffeisenbank Amberg eG;09621479164;Weinstr. 3-9;;92224;Amberg;;DE
+10463;10463;10463;;10463;Info@dummetgemuese.de;;;Dummet Gemüse GbR;Angela;Dummet;;haendler;Dummet Gemüse GbR;;true;true;fresh;;true;;0;true;true;fresh;;Angela;Dummet;Dummet Gemüse GbR;Info@dummetgemuese.de;017646152798;Obere Dorfstraße 58;;90427;Nürnberg;;DE;Angela;Dummet;Dummet Gemüse GbR;017646152798;Obere Dorfstraße 58;;90427;Nürnberg;;DE
+10464;10464;10464;;10464;info@kopolds-kartoffelhof.de;;;Kopold's Kartoffelhof;Lena;Kopold;;haendler;Kopold's Kartoffelhof;;true;true;fresh;;true;;0;true;true;fresh;;Lena;Kopold;Kopold's Kartoffelhof;info@kopolds-kartoffelhof.de;08454 3161;Ingolstädter Straße 14;;86564;Brunnen;;DE;Lena;Kopold;Kopold's Kartoffelhof;08454 3161;Ingolstädter Straße 14;;86564;Brunnen;;DE
+10465;10465;10465;;10465;cafehanshaundorf@web.de;;;Café Hans Dorfladen;Gudrun;Nehmeier;;haendler;Café Hans Dorfladen;;true;true;fresh;;true;;0;true;true;fresh;;Gudrun;Nehmeier;Café Hans Dorfladen;cafehanshaundorf@web.de;09837/9765836;Georgentalweg 2;;91729;Haundorf;;DE;Gudrun;Nehmeier;Café Hans Dorfladen;09837/9765836;Georgentalweg 2;;91729;Haundorf;;DE
+10470;10470;10470;;10470;info@besh.de;;;Regionalmarkt Hohenlohe;;;;haendler;Regionalmarkt Hohenlohe;;true;true;fresh;;true;;0;true;true;fresh;;;;Regionalmarkt Hohenlohe;info@besh.de;07904 9 43 80-10;Brikichstraße 10;;74549;Wolpertshausen;;DE;;;Regionalmarkt Hohenlohe;07904 9 43 80-10;Brikichstraße 10;;74549;Wolpertshausen;;DE
+10471;10471;10471;;10471;landmetzgerei-herrmann@web.de;;;Landmetzgerei Herrmann;Frau;Herrmann;;haendler;Landmetzgerei Herrmann;;true;true;fresh;;true;;0;true;true;fresh;;Frau;Herrmann;Landmetzgerei Herrmann;landmetzgerei-herrmann@web.de;09336 1482;Hauptstraße 11;;97268;Kirchheim;;DE;Frau;Herrmann;Landmetzgerei Herrmann;09336 1482;Hauptstraße 11;;97268;Kirchheim;;DE
+10472;10472;10472;;10472;pferdegespanne-drechsler@web.de;;;Thomas Drechsler;Thomas;Drechsler;;haendler;Thomas Drechsler;;true;true;fresh;;true;;0;true;true;fresh;;Thomas;Drechsler;Thomas Drechsler;pferdegespanne-drechsler@web.de;0911345058;Almoshofer Hauptstr. 52;;90427;Nürnberg;;DE;Thomas;Drechsler;Thomas Drechsler;0911345058;Almoshofer Hauptstr. 52;;90427;Nürnberg;;DE
+10473;10473;10473;;10473;h.wolf@getraenke-kistner.de;;;Getränke Kistner Forchheim-Kersbach;Harald;Wolf;;haendler;Getränke Kistner Forchheim-Kersbach;;true;true;fresh;;true;;0;true;true;fresh;;Harald;Wolf;Getränke Kistner Forchheim-Kersbach;h.wolf@getraenke-kistner.de;;Sandäcker 1;;91301;Forchheim;;DE;Harald;Wolf;Getränke Kistner Forchheim-Kersbach;;Sandäcker 1;;91301;Forchheim;;DE
+10474;10474;10474;;10474;info@getraenke-kistner.de;;;Getränke Kistner Ebermannstadt;Harald;Wolf;;haendler;Getränke Kistner Ebermannstadt;;true;true;fresh;;true;;0;true;true;fresh;;Harald;Wolf;Getränke Kistner Ebermannstadt;info@getraenke-kistner.de;;Friedhofstraße 27;;91320;Ebermannstadt;;DE;Harald;Wolf;Getränke Kistner Ebermannstadt;;Friedhofstraße 27;;91320;Ebermannstadt;;DE
+10475;10475;10475;;10475;info@getraenke-kistner.de;;;Getränke Kistner Höchstadt;Harald;Wolf;;haendler;Getränke Kistner Höchstadt;;true;true;fresh;;true;;0;true;true;fresh;;Harald;Wolf;Getränke Kistner Höchstadt;info@getraenke-kistner.de;;Schwarenbacher Ring 2c;;91315;Höchstadt;;DE;Harald;Wolf;Getränke Kistner Höchstadt;;Schwarenbacher Ring 2c;;91315;Höchstadt;;DE
+10476;10476;10476;;10476;peter-pfisterer@gmx.de;;;Peter Pfisterer;Peter;Pfisterer;;haendler;Peter Pfisterer;;true;true;fresh;;true;;0;true;true;fresh;;Peter;Pfisterer;Peter Pfisterer;peter-pfisterer@gmx.de;;Adelgundisstrasse 16;;86420;Diedorf;;DE;Peter;Pfisterer;Peter Pfisterer;;Adelgundisstrasse 16;;86420;Diedorf;;DE
+10477;10477;10477;;10477;barbara_steckenbiller@web.de;;;Steckenbillers Milchtankstelle;Thomas;Steckenbiller;;haendler;Steckenbillers Milchtankstelle;;true;true;fresh;;true;;0;true;true;fresh;;Thomas;Steckenbiller;Steckenbillers Milchtankstelle;barbara_steckenbiller@web.de;0871 41165;Salzdorf 3;;84036;Landshut;;DE;Thomas;Steckenbiller;Steckenbillers Milchtankstelle;0871 41165;Salzdorf 3;;84036;Landshut;;DE
+10478;10478;10478;;10478;winkler@businesscloud.one;;;Landpension Winkler GbR;Christa;Winkler;;haendler;Landpension Winkler GbR;;true;true;fresh;;true;;0;true;true;fresh;;Christa;Winkler;Landpension Winkler GbR;winkler@businesscloud.one;09171 892384;Schwander Str. 19;;91154;Roth;;DE;Christa;Winkler;Landpension Winkler GbR;09171 892384;Schwander Str. 19;;91154;Roth;;DE
+10489;10489;10489;;10489;max.steinherr@outlook.de;;;Peter Steinherr;;;;haendler;Peter Steinherr;;true;true;fresh;;true;;0;true;true;fresh;;;;Peter Steinherr;max.steinherr@outlook.de;;Lindenstraße 6;;86697;Oberhausen;;DE;;;Peter Steinherr;;Lindenstraße 6;;86697;Oberhausen;;DE
+10490;10490;10490;;10490;kleinseebacher.hofladen@gmail.com;;;Kleinseebacher Hofladen;Andrea;Hartmann;;haendler;Kleinseebacher Hofladen;;true;true;fresh;;true;;0;true;true;fresh;;Andrea;Hartmann;Kleinseebacher Hofladen;kleinseebacher.hofladen@gmail.com;09133 9496;Kleinseebacherstr. 68b;;91096;Möhrendorf;;DE;Andrea;Hartmann;Kleinseebacher Hofladen;09133 9496;Kleinseebacherstr. 68b;;91096;Möhrendorf;;DE
+10491;10491;10491;;10491;floristik@blumenhof-reichel.de;;;Blumenhof Reichel;Peter;Reichel;;haendler;Blumenhof Reichel;;true;true;fresh;;true;;0;true;true;fresh;;Peter;Reichel;Blumenhof Reichel;floristik@blumenhof-reichel.de;;Röthenbacher Hauptstraße 75;;90449;Nürnberg;;DE;Peter;Reichel;Blumenhof Reichel;;Röthenbacher Hauptstraße 75;;90449;Nürnberg;;DE
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;haendler;;;true;true;fresh;;true;;0;;;;;;;;;;;;;;;;;;;;;;;;;

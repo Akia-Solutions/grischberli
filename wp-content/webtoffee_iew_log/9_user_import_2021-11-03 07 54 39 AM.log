@@ -1,0 +1,67 @@
+11-03-2021 @ 08:54:39 - ---[ New import started at 2021-11-03 07:54:39 ] PHP Memory: 128 MB, WP Memory: 40 MB
+11-03-2021 @ 08:54:39 - Preparing for import.
+11-03-2021 @ 08:54:39 - Row :1 - Parsing item.
+11-03-2021 @ 08:54:39 - Row :1 - Processing item.
+11-03-2021 @ 08:54:39 - Processing users.
+11-03-2021 @ 08:54:40 - > &#8220;154&#8221;User imported successfully. ID:154
+11-03-2021 @ 08:54:40 - > Finished importing user 154
+11-03-2021 @ 08:54:40 - Row :1 - User imported successfully.
+11-03-2021 @ 08:54:40 - Row :2 - Parsing item.
+11-03-2021 @ 08:54:40 - Row :2 - Processing item.
+11-03-2021 @ 08:54:40 - Processing users.
+11-03-2021 @ 08:54:40 - > &#8220;155&#8221;User imported successfully. ID:155
+11-03-2021 @ 08:54:40 - > Finished importing user 155
+11-03-2021 @ 08:54:40 - Row :2 - User imported successfully.
+11-03-2021 @ 08:54:40 - Row :3 - Parsing item.
+11-03-2021 @ 08:54:40 - Row :3 - Processing item.
+11-03-2021 @ 08:54:40 - Processing users.
+11-03-2021 @ 08:54:40 - > &#8220;156&#8221;User imported successfully. ID:156
+11-03-2021 @ 08:54:40 - > Finished importing user 156
+11-03-2021 @ 08:54:40 - Row :3 - User imported successfully.
+11-03-2021 @ 08:54:40 - Row :4 - Parsing item.
+11-03-2021 @ 08:54:40 - Row :4 - Processing item.
+11-03-2021 @ 08:54:40 - Processing users.
+11-03-2021 @ 08:54:40 - > &#8220;157&#8221;User imported successfully. ID:157
+11-03-2021 @ 08:54:40 - > Finished importing user 157
+11-03-2021 @ 08:54:40 - Row :4 - User imported successfully.
+11-03-2021 @ 08:54:40 - Row :5 - Parsing item.
+11-03-2021 @ 08:54:40 - Row :5 - Processing item.
+11-03-2021 @ 08:54:40 - Processing users.
+11-03-2021 @ 08:54:40 - > &#8220;158&#8221;User imported successfully. ID:158
+11-03-2021 @ 08:54:40 - > Finished importing user 158
+11-03-2021 @ 08:54:40 - Row :5 - User imported successfully.
+11-03-2021 @ 08:54:40 - Row :6 - Parsing item.
+11-03-2021 @ 08:54:40 - Row :6 - Parsing failed. Reason: User with same Email already exists. Email: info@obsthof-Seubert.de
+11-03-2021 @ 08:54:40 - Row :7 - Parsing item.
+11-03-2021 @ 08:54:40 - Row :7 - Parsing failed. Reason: User with same Email already exists. Email: heimatbluete-honig@gmx.de
+11-03-2021 @ 08:54:40 - Row :8 - Parsing item.
+11-03-2021 @ 08:54:40 - Row :8 - Processing item.
+11-03-2021 @ 08:54:40 - Processing users.
+11-03-2021 @ 08:54:40 - > &#8220;159&#8221;User imported successfully. ID:159
+11-03-2021 @ 08:54:40 - > Finished importing user 159
+11-03-2021 @ 08:54:40 - Row :8 - User imported successfully.
+11-03-2021 @ 08:54:40 - Row :9 - Parsing item.
+11-03-2021 @ 08:54:40 - Row :9 - Processing item.
+11-03-2021 @ 08:54:40 - Processing users.
+11-03-2021 @ 08:54:41 - > &#8220;160&#8221;User imported successfully. ID:160
+11-03-2021 @ 08:54:41 - > Finished importing user 160
+11-03-2021 @ 08:54:41 - Row :9 - User imported successfully.
+11-03-2021 @ 08:54:41 - Row :10 - Parsing item.
+11-03-2021 @ 08:54:41 - Row :10 - Processing item.
+11-03-2021 @ 08:54:41 - Processing users.
+11-03-2021 @ 08:54:41 - > &#8220;161&#8221;User imported successfully. ID:161
+11-03-2021 @ 08:54:41 - > Finished importing user 161
+11-03-2021 @ 08:54:41 - Row :10 - User imported successfully.
+11-03-2021 @ 08:54:41 - Row :11 - Parsing item.
+11-03-2021 @ 08:54:41 - Row :11 - Processing item.
+11-03-2021 @ 08:54:41 - Processing users.
+11-03-2021 @ 08:54:41 - > &#8220;162&#8221;User imported successfully. ID:162
+11-03-2021 @ 08:54:41 - > Finished importing user 162
+11-03-2021 @ 08:54:41 - Row :11 - User imported successfully.
+11-03-2021 @ 08:54:41 - Row :12 - Parsing item.
+11-03-2021 @ 08:54:41 - Row :12 - Processing item.
+11-03-2021 @ 08:54:41 - Processing users.
+11-03-2021 @ 08:54:41 - > &#8220;163&#8221;User imported successfully. ID:163
+11-03-2021 @ 08:54:41 - > Finished importing user 163
+11-03-2021 @ 08:54:41 - Row :12 - User imported successfully.
+11-03-2021 @ 08:54:41 - ---[ Import ended at 2021-11-03 07:54:41]---

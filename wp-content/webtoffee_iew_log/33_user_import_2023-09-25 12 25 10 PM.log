@@ -1,0 +1,394 @@
+09-25-2023 @ 14:25:10 - ---[ New import started at 2023-09-25 12:25:10 ] PHP Memory: 256 MB, WP Memory: 40 MB
+09-25-2023 @ 14:25:10 - Preparing for import.
+09-25-2023 @ 14:25:10 - Row :1 - Parsing item.
+09-25-2023 @ 14:25:10 - Row :1 - Parsing failed. Reason: User with same Email already exists. Email: henrik-burmester@hofsteinberg.de
+09-25-2023 @ 14:25:10 - Row :2 - Parsing item.
+09-25-2023 @ 14:25:10 - Row :2 - Processing item.
+09-25-2023 @ 14:25:10 - Processing users.
+09-25-2023 @ 14:25:10 - > &#8220;1004&#8221;User imported successfully. ID:1004
+09-25-2023 @ 14:25:10 - > Finished importing user 1004
+09-25-2023 @ 14:25:10 - Row :2 - User imported successfully.
+09-25-2023 @ 14:25:10 - Row :3 - Parsing item.
+09-25-2023 @ 14:25:10 - Row :3 - Parsing failed. Reason: User with same Email already exists. Email: wimmer-ronecker@clubk-sprachen.de
+09-25-2023 @ 14:25:10 - Row :4 - Parsing item.
+09-25-2023 @ 14:25:10 - Row :4 - Parsing failed. Reason: User with same Email already exists. Email: derackerladen@gmx.de
+09-25-2023 @ 14:25:10 - Row :5 - Parsing item.
+09-25-2023 @ 14:25:10 - Row :5 - Processing item.
+09-25-2023 @ 14:25:10 - Processing users.
+09-25-2023 @ 14:25:11 - > &#8220;1005&#8221;User imported successfully. ID:1005
+09-25-2023 @ 14:25:11 - > Finished importing user 1005
+09-25-2023 @ 14:25:11 - Row :5 - User imported successfully.
+09-25-2023 @ 14:25:11 - Row :6 - Parsing item.
+09-25-2023 @ 14:25:11 - Row :6 - Processing item.
+09-25-2023 @ 14:25:11 - Processing users.
+09-25-2023 @ 14:25:11 - > &#8220;1006&#8221;User imported successfully. ID:1006
+09-25-2023 @ 14:25:11 - > Finished importing user 1006
+09-25-2023 @ 14:25:11 - Row :6 - User imported successfully.
+09-25-2023 @ 14:25:11 - Row :7 - Parsing item.
+09-25-2023 @ 14:25:11 - Row :7 - Processing item.
+09-25-2023 @ 14:25:11 - Processing users.
+09-25-2023 @ 14:25:11 - > &#8220;1007&#8221;User imported successfully. ID:1007
+09-25-2023 @ 14:25:11 - > Finished importing user 1007
+09-25-2023 @ 14:25:11 - Row :7 - User imported successfully.
+09-25-2023 @ 14:25:11 - Row :8 - Parsing item.
+09-25-2023 @ 14:25:11 - Row :8 - Processing item.
+09-25-2023 @ 14:25:11 - Processing users.
+09-25-2023 @ 14:25:12 - > &#8220;1008&#8221;User imported successfully. ID:1008
+09-25-2023 @ 14:25:12 - > Finished importing user 1008
+09-25-2023 @ 14:25:12 - Row :8 - User imported successfully.
+09-25-2023 @ 14:25:12 - Row :9 - Parsing item.
+09-25-2023 @ 14:25:12 - Row :9 - Processing item.
+09-25-2023 @ 14:25:12 - Processing users.
+09-25-2023 @ 14:25:12 - > &#8220;1009&#8221;User imported successfully. ID:1009
+09-25-2023 @ 14:25:12 - > Finished importing user 1009
+09-25-2023 @ 14:25:12 - Row :9 - User imported successfully.
+09-25-2023 @ 14:25:12 - Row :10 - Parsing item.
+09-25-2023 @ 14:25:12 - Row :10 - Processing item.
+09-25-2023 @ 14:25:12 - Processing users.
+09-25-2023 @ 14:25:12 - > &#8220;1010&#8221;User imported successfully. ID:1010
+09-25-2023 @ 14:25:12 - > Finished importing user 1010
+09-25-2023 @ 14:25:12 - Row :10 - User imported successfully.
+09-25-2023 @ 14:25:12 - Row :11 - Parsing item.
+09-25-2023 @ 14:25:12 - Row :11 - Processing item.
+09-25-2023 @ 14:25:12 - Processing users.
+09-25-2023 @ 14:25:13 - > &#8220;1011&#8221;User imported successfully. ID:1011
+09-25-2023 @ 14:25:13 - > Finished importing user 1011
+09-25-2023 @ 14:25:13 - Row :11 - User imported successfully.
+09-25-2023 @ 14:25:13 - Row :12 - Parsing item.
+09-25-2023 @ 14:25:13 - Row :12 - Processing item.
+09-25-2023 @ 14:25:13 - Processing users.
+09-25-2023 @ 14:25:13 - > &#8220;1012&#8221;User imported successfully. ID:1012
+09-25-2023 @ 14:25:13 - > Finished importing user 1012
+09-25-2023 @ 14:25:13 - Row :12 - User imported successfully.
+09-25-2023 @ 14:25:13 - Row :13 - Parsing item.
+09-25-2023 @ 14:25:13 - Row :13 - Processing item.
+09-25-2023 @ 14:25:13 - Processing users.
+09-25-2023 @ 14:25:13 - > &#8220;1013&#8221;User imported successfully. ID:1013
+09-25-2023 @ 14:25:13 - > Finished importing user 1013
+09-25-2023 @ 14:25:13 - Row :13 - User imported successfully.
+09-25-2023 @ 14:25:13 - Row :14 - Parsing item.
+09-25-2023 @ 14:25:13 - Row :14 - Processing item.
+09-25-2023 @ 14:25:13 - Processing users.
+09-25-2023 @ 14:25:14 - > &#8220;1014&#8221;User imported successfully. ID:1014
+09-25-2023 @ 14:25:14 - > Finished importing user 1014
+09-25-2023 @ 14:25:14 - Row :14 - User imported successfully.
+09-25-2023 @ 14:25:14 - Row :15 - Parsing item.
+09-25-2023 @ 14:25:14 - Row :15 - Processing item.
+09-25-2023 @ 14:25:14 - Processing users.
+09-25-2023 @ 14:25:14 - > &#8220;1015&#8221;User imported successfully. ID:1015
+09-25-2023 @ 14:25:14 - > Finished importing user 1015
+09-25-2023 @ 14:25:14 - Row :15 - User imported successfully.
+09-25-2023 @ 14:25:14 - Row :16 - Parsing item.
+09-25-2023 @ 14:25:14 - Row :16 - Processing item.
+09-25-2023 @ 14:25:14 - Processing users.
+09-25-2023 @ 14:25:14 - > &#8220;1016&#8221;User imported successfully. ID:1016
+09-25-2023 @ 14:25:14 - > Finished importing user 1016
+09-25-2023 @ 14:25:14 - Row :16 - User imported successfully.
+09-25-2023 @ 14:25:14 - Row :17 - Parsing item.
+09-25-2023 @ 14:25:14 - Row :17 - Processing item.
+09-25-2023 @ 14:25:14 - Processing users.
+09-25-2023 @ 14:25:15 - > &#8220;1017&#8221;User imported successfully. ID:1017
+09-25-2023 @ 14:25:15 - > Finished importing user 1017
+09-25-2023 @ 14:25:15 - Row :17 - User imported successfully.
+09-25-2023 @ 14:25:15 - Row :18 - Parsing item.
+09-25-2023 @ 14:25:15 - Row :18 - Processing item.
+09-25-2023 @ 14:25:15 - Processing users.
+09-25-2023 @ 14:25:15 - > &#8220;1018&#8221;User imported successfully. ID:1018
+09-25-2023 @ 14:25:15 - > Finished importing user 1018
+09-25-2023 @ 14:25:15 - Row :18 - User imported successfully.
+09-25-2023 @ 14:25:15 - Row :19 - Parsing item.
+09-25-2023 @ 14:25:15 - Row :19 - Processing item.
+09-25-2023 @ 14:25:15 - Processing users.
+09-25-2023 @ 14:25:15 - > &#8220;1019&#8221;User imported successfully. ID:1019
+09-25-2023 @ 14:25:15 - > Finished importing user 1019
+09-25-2023 @ 14:25:15 - Row :19 - User imported successfully.
+09-25-2023 @ 14:25:15 - Row :20 - Parsing item.
+09-25-2023 @ 14:25:15 - Row :20 - Processing item.
+09-25-2023 @ 14:25:15 - Processing users.
+09-25-2023 @ 14:25:16 - > &#8220;1020&#8221;User imported successfully. ID:1020
+09-25-2023 @ 14:25:16 - > Finished importing user 1020
+09-25-2023 @ 14:25:16 - Row :20 - User imported successfully.
+09-25-2023 @ 14:25:16 - Row :21 - Parsing item.
+09-25-2023 @ 14:25:16 - Row :21 - Processing item.
+09-25-2023 @ 14:25:16 - Processing users.
+09-25-2023 @ 14:25:16 - > &#8220;1021&#8221;User imported successfully. ID:1021
+09-25-2023 @ 14:25:16 - > Finished importing user 1021
+09-25-2023 @ 14:25:16 - Row :21 - User imported successfully.
+09-25-2023 @ 14:25:16 - Row :22 - Parsing item.
+09-25-2023 @ 14:25:16 - Row :22 - Processing item.
+09-25-2023 @ 14:25:16 - Processing users.
+09-25-2023 @ 14:25:16 - > &#8220;1022&#8221;User imported successfully. ID:1022
+09-25-2023 @ 14:25:16 - > Finished importing user 1022
+09-25-2023 @ 14:25:16 - Row :22 - User imported successfully.
+09-25-2023 @ 14:25:16 - Row :23 - Parsing item.
+09-25-2023 @ 14:25:16 - Row :23 - Processing item.
+09-25-2023 @ 14:25:16 - Processing users.
+09-25-2023 @ 14:25:17 - > &#8220;1023&#8221;User imported successfully. ID:1023
+09-25-2023 @ 14:25:17 - > Finished importing user 1023
+09-25-2023 @ 14:25:17 - Row :23 - User imported successfully.
+09-25-2023 @ 14:25:17 - Row :24 - Parsing item.
+09-25-2023 @ 14:25:17 - Row :24 - Parsing failed. Reason: User with same Email already exists. Email: klauskrischke@web.de
+09-25-2023 @ 14:25:17 - Row :25 - Parsing item.
+09-25-2023 @ 14:25:17 - Row :25 - Processing item.
+09-25-2023 @ 14:25:17 - Processing users.
+09-25-2023 @ 14:25:17 - > &#8220;1024&#8221;User imported successfully. ID:1024
+09-25-2023 @ 14:25:17 - > Finished importing user 1024
+09-25-2023 @ 14:25:17 - Row :25 - User imported successfully.
+09-25-2023 @ 14:25:17 - Row :26 - Parsing item.
+09-25-2023 @ 14:25:17 - Row :26 - Parsing failed. Reason: User with same Email already exists. Email: hubertus-bleckmann@t-online.de
+09-25-2023 @ 14:25:17 - Row :27 - Parsing item.
+09-25-2023 @ 14:25:17 - Row :27 - Processing item.
+09-25-2023 @ 14:25:17 - Processing users.
+09-25-2023 @ 14:25:22 - > &#8220;1025&#8221;User imported successfully. ID:1025
+09-25-2023 @ 14:25:22 - > Finished importing user 1025
+09-25-2023 @ 14:25:22 - Row :27 - User imported successfully.
+09-25-2023 @ 14:25:22 - Row :28 - Parsing item.
+09-25-2023 @ 14:25:22 - Row :28 - Processing item.
+09-25-2023 @ 14:25:22 - Processing users.
+09-25-2023 @ 14:25:23 - > &#8220;1026&#8221;User imported successfully. ID:1026
+09-25-2023 @ 14:25:23 - > Finished importing user 1026
+09-25-2023 @ 14:25:23 - Row :28 - User imported successfully.
+09-25-2023 @ 14:25:23 - Row :29 - Parsing item.
+09-25-2023 @ 14:25:23 - Row :29 - Processing item.
+09-25-2023 @ 14:25:23 - Processing users.
+09-25-2023 @ 14:25:23 - > &#8220;1027&#8221;User imported successfully. ID:1027
+09-25-2023 @ 14:25:23 - > Finished importing user 1027
+09-25-2023 @ 14:25:23 - Row :29 - User imported successfully.
+09-25-2023 @ 14:25:23 - Row :30 - Parsing item.
+09-25-2023 @ 14:25:23 - Row :30 - Processing item.
+09-25-2023 @ 14:25:23 - Processing users.
+09-25-2023 @ 14:25:23 - > &#8220;1028&#8221;User imported successfully. ID:1028
+09-25-2023 @ 14:25:23 - > Finished importing user 1028
+09-25-2023 @ 14:25:23 - Row :30 - User imported successfully.
+09-25-2023 @ 14:25:23 - Row :31 - Parsing item.
+09-25-2023 @ 14:25:23 - Row :31 - Processing item.
+09-25-2023 @ 14:25:23 - Processing users.
+09-25-2023 @ 14:25:24 - > &#8220;1029&#8221;User imported successfully. ID:1029
+09-25-2023 @ 14:25:24 - > Finished importing user 1029
+09-25-2023 @ 14:25:24 - Row :31 - User imported successfully.
+09-25-2023 @ 14:25:24 - Row :32 - Parsing item.
+09-25-2023 @ 14:25:24 - Row :32 - Parsing failed. Reason: User with same Email already exists. Email: karincoe26@gmail.com
+09-25-2023 @ 14:25:24 - Row :33 - Parsing item.
+09-25-2023 @ 14:25:24 - Row :33 - Processing item.
+09-25-2023 @ 14:25:24 - Processing users.
+09-25-2023 @ 14:25:24 - > &#8220;1030&#8221;User imported successfully. ID:1030
+09-25-2023 @ 14:25:24 - > Finished importing user 1030
+09-25-2023 @ 14:25:24 - Row :33 - User imported successfully.
+09-25-2023 @ 14:25:24 - Row :34 - Parsing item.
+09-25-2023 @ 14:25:24 - Row :34 - Processing item.
+09-25-2023 @ 14:25:24 - Processing users.
+09-25-2023 @ 14:25:24 - > &#8220;1031&#8221;User imported successfully. ID:1031
+09-25-2023 @ 14:25:24 - > Finished importing user 1031
+09-25-2023 @ 14:25:24 - Row :34 - User imported successfully.
+09-25-2023 @ 14:25:24 - Row :35 - Parsing item.
+09-25-2023 @ 14:25:24 - Row :35 - Parsing failed. Reason: User with same Email already exists. Email: knobloch.heilbronn@t-online.de
+09-25-2023 @ 14:25:24 - Row :36 - Parsing item.
+09-25-2023 @ 14:25:24 - Row :36 - Processing item.
+09-25-2023 @ 14:25:24 - Processing users.
+09-25-2023 @ 14:25:25 - > &#8220;1032&#8221;User imported successfully. ID:1032
+09-25-2023 @ 14:25:25 - > Finished importing user 1032
+09-25-2023 @ 14:25:25 - Row :36 - User imported successfully.
+09-25-2023 @ 14:25:25 - Row :37 - Parsing item.
+09-25-2023 @ 14:25:25 - Row :37 - Processing item.
+09-25-2023 @ 14:25:25 - Processing users.
+09-25-2023 @ 14:25:25 - > &#8220;1033&#8221;User imported successfully. ID:1033
+09-25-2023 @ 14:25:25 - > Finished importing user 1033
+09-25-2023 @ 14:25:25 - Row :37 - User imported successfully.
+09-25-2023 @ 14:25:25 - Row :38 - Parsing item.
+09-25-2023 @ 14:25:25 - Row :38 - Processing item.
+09-25-2023 @ 14:25:25 - Processing users.
+09-25-2023 @ 14:25:25 - > &#8220;1034&#8221;User imported successfully. ID:1034
+09-25-2023 @ 14:25:25 - > Finished importing user 1034
+09-25-2023 @ 14:25:25 - Row :38 - User imported successfully.
+09-25-2023 @ 14:25:25 - Row :39 - Parsing item.
+09-25-2023 @ 14:25:25 - Row :39 - Processing item.
+09-25-2023 @ 14:25:25 - Processing users.
+09-25-2023 @ 14:25:26 - > &#8220;1035&#8221;User imported successfully. ID:1035
+09-25-2023 @ 14:25:26 - > Finished importing user 1035
+09-25-2023 @ 14:25:26 - Row :39 - User imported successfully.
+09-25-2023 @ 14:25:26 - Row :40 - Parsing item.
+09-25-2023 @ 14:25:26 - Row :40 - Processing item.
+09-25-2023 @ 14:25:26 - Processing users.
+09-25-2023 @ 14:25:26 - > &#8220;1036&#8221;User imported successfully. ID:1036
+09-25-2023 @ 14:25:26 - > Finished importing user 1036
+09-25-2023 @ 14:25:26 - Row :40 - User imported successfully.
+09-25-2023 @ 14:25:26 - Row :41 - Parsing item.
+09-25-2023 @ 14:25:26 - Row :41 - Processing item.
+09-25-2023 @ 14:25:26 - Processing users.
+09-25-2023 @ 14:25:26 - > &#8220;1037&#8221;User imported successfully. ID:1037
+09-25-2023 @ 14:25:26 - > Finished importing user 1037
+09-25-2023 @ 14:25:26 - Row :41 - User imported successfully.
+09-25-2023 @ 14:25:26 - Row :42 - Parsing item.
+09-25-2023 @ 14:25:26 - Row :42 - Processing item.
+09-25-2023 @ 14:25:26 - Processing users.
+09-25-2023 @ 14:25:27 - > &#8220;1038&#8221;User imported successfully. ID:1038
+09-25-2023 @ 14:25:27 - > Finished importing user 1038
+09-25-2023 @ 14:25:27 - Row :42 - User imported successfully.
+09-25-2023 @ 14:25:27 - Row :43 - Parsing item.
+09-25-2023 @ 14:25:27 - Row :43 - Processing item.
+09-25-2023 @ 14:25:27 - Processing users.
+09-25-2023 @ 14:25:27 - > &#8220;1039&#8221;User imported successfully. ID:1039
+09-25-2023 @ 14:25:27 - > Finished importing user 1039
+09-25-2023 @ 14:25:27 - Row :43 - User imported successfully.
+09-25-2023 @ 14:25:27 - Row :44 - Parsing item.
+09-25-2023 @ 14:25:27 - Row :44 - Processing item.
+09-25-2023 @ 14:25:27 - Processing users.
+09-25-2023 @ 14:25:27 - > &#8220;1040&#8221;User imported successfully. ID:1040
+09-25-2023 @ 14:25:27 - > Finished importing user 1040
+09-25-2023 @ 14:25:27 - Row :44 - User imported successfully.
+09-25-2023 @ 14:25:27 - Row :45 - Parsing item.
+09-25-2023 @ 14:25:27 - Row :45 - Processing item.
+09-25-2023 @ 14:25:27 - Processing users.
+09-25-2023 @ 14:25:28 - > &#8220;1041&#8221;User imported successfully. ID:1041
+09-25-2023 @ 14:25:28 - > Finished importing user 1041
+09-25-2023 @ 14:25:28 - Row :45 - User imported successfully.
+09-25-2023 @ 14:25:28 - Row :46 - Parsing item.
+09-25-2023 @ 14:25:28 - Row :46 - Processing item.
+09-25-2023 @ 14:25:28 - Processing users.
+09-25-2023 @ 14:25:33 - > &#8220;1042&#8221;User imported successfully. ID:1042
+09-25-2023 @ 14:25:33 - > Finished importing user 1042
+09-25-2023 @ 14:25:33 - Row :46 - User imported successfully.
+09-25-2023 @ 14:25:33 - Row :47 - Parsing item.
+09-25-2023 @ 14:25:33 - Row :47 - Parsing failed. Reason: User with same Email already exists. Email: klubert@gemuese-schmiedelberg.de
+09-25-2023 @ 14:25:33 - Row :48 - Parsing item.
+09-25-2023 @ 14:25:33 - Row :48 - Parsing failed. Reason: User with same Email already exists. Email: info@bohrerhof.de
+09-25-2023 @ 14:25:33 - Row :49 - Parsing item.
+09-25-2023 @ 14:25:33 - Row :49 - Parsing failed. Reason: User with same Email already exists. Email: piahimmelmann@freenet.de
+09-25-2023 @ 14:25:33 - Row :50 - Parsing item.
+09-25-2023 @ 14:25:33 - Row :50 - Processing item.
+09-25-2023 @ 14:25:33 - Processing users.
+09-25-2023 @ 14:25:33 - > &#8220;1043&#8221;User imported successfully. ID:1043
+09-25-2023 @ 14:25:33 - > Finished importing user 1043
+09-25-2023 @ 14:25:33 - Row :50 - User imported successfully.
+09-25-2023 @ 14:25:33 - Row :51 - Parsing item.
+09-25-2023 @ 14:25:33 - Row :51 - Processing item.
+09-25-2023 @ 14:25:33 - Processing users.
+09-25-2023 @ 14:25:33 - > &#8220;1044&#8221;User imported successfully. ID:1044
+09-25-2023 @ 14:25:33 - > Finished importing user 1044
+09-25-2023 @ 14:25:33 - Row :51 - User imported successfully.
+09-25-2023 @ 14:25:33 - Row :52 - Parsing item.
+09-25-2023 @ 14:25:33 - Row :52 - Parsing failed. Reason: User with same Email already exists. Email: info@hofgut-stahl.de
+09-25-2023 @ 14:25:33 - Row :53 - Parsing item.
+09-25-2023 @ 14:25:33 - Row :53 - Parsing failed. Reason: User with same Email already exists. Email: gemuesebau-koch@t-online.de
+09-25-2023 @ 14:25:33 - Row :54 - Parsing item.
+09-25-2023 @ 14:25:33 - Row :54 - Processing item.
+09-25-2023 @ 14:25:33 - Processing users.
+09-25-2023 @ 14:25:34 - > &#8220;1045&#8221;User imported successfully. ID:1045
+09-25-2023 @ 14:25:34 - > Finished importing user 1045
+09-25-2023 @ 14:25:34 - Row :54 - User imported successfully.
+09-25-2023 @ 14:25:34 - Row :55 - Parsing item.
+09-25-2023 @ 14:25:34 - Row :55 - Processing item.
+09-25-2023 @ 14:25:34 - Processing users.
+09-25-2023 @ 14:25:34 - > &#8220;1046&#8221;User imported successfully. ID:1046
+09-25-2023 @ 14:25:34 - > Finished importing user 1046
+09-25-2023 @ 14:25:34 - Row :55 - User imported successfully.
+09-25-2023 @ 14:25:34 - Row :56 - Parsing item.
+09-25-2023 @ 14:25:34 - Row :56 - Processing item.
+09-25-2023 @ 14:25:34 - Processing users.
+09-25-2023 @ 14:25:34 - > &#8220;1047&#8221;User imported successfully. ID:1047
+09-25-2023 @ 14:25:34 - > Finished importing user 1047
+09-25-2023 @ 14:25:34 - Row :56 - User imported successfully.
+09-25-2023 @ 14:25:34 - Row :57 - Parsing item.
+09-25-2023 @ 14:25:34 - Row :57 - Processing item.
+09-25-2023 @ 14:25:34 - Processing users.
+09-25-2023 @ 14:25:35 - > &#8220;1048&#8221;User imported successfully. ID:1048
+09-25-2023 @ 14:25:35 - > Finished importing user 1048
+09-25-2023 @ 14:25:35 - Row :57 - User imported successfully.
+09-25-2023 @ 14:25:35 - Row :58 - Parsing item.
+09-25-2023 @ 14:25:35 - Row :58 - Processing item.
+09-25-2023 @ 14:25:35 - Processing users.
+09-25-2023 @ 14:25:35 - > &#8220;1049&#8221;User imported successfully. ID:1049
+09-25-2023 @ 14:25:35 - > Finished importing user 1049
+09-25-2023 @ 14:25:35 - Row :58 - User imported successfully.
+09-25-2023 @ 14:25:35 - Row :59 - Parsing item.
+09-25-2023 @ 14:25:35 - Row :59 - Processing item.
+09-25-2023 @ 14:25:35 - Processing users.
+09-25-2023 @ 14:25:35 - > &#8220;1050&#8221;User imported successfully. ID:1050
+09-25-2023 @ 14:25:35 - > Finished importing user 1050
+09-25-2023 @ 14:25:35 - Row :59 - User imported successfully.
+09-25-2023 @ 14:25:35 - Row :60 - Parsing item.
+09-25-2023 @ 14:25:35 - Row :60 - Processing item.
+09-25-2023 @ 14:25:35 - Processing users.
+09-25-2023 @ 14:25:36 - > &#8220;1051&#8221;User imported successfully. ID:1051
+09-25-2023 @ 14:25:36 - > Finished importing user 1051
+09-25-2023 @ 14:25:36 - Row :60 - User imported successfully.
+09-25-2023 @ 14:25:36 - Row :61 - Parsing item.
+09-25-2023 @ 14:25:36 - Row :61 - Processing item.
+09-25-2023 @ 14:25:36 - Processing users.
+09-25-2023 @ 14:25:36 - > &#8220;1052&#8221;User imported successfully. ID:1052
+09-25-2023 @ 14:25:36 - > Finished importing user 1052
+09-25-2023 @ 14:25:36 - Row :61 - User imported successfully.
+09-25-2023 @ 14:25:36 - Row :62 - Parsing item.
+09-25-2023 @ 14:25:36 - Row :62 - Processing item.
+09-25-2023 @ 14:25:36 - Processing users.
+09-25-2023 @ 14:25:36 - > &#8220;1053&#8221;User imported successfully. ID:1053
+09-25-2023 @ 14:25:36 - > Finished importing user 1053
+09-25-2023 @ 14:25:36 - Row :62 - User imported successfully.
+09-25-2023 @ 14:25:36 - Row :63 - Parsing item.
+09-25-2023 @ 14:25:36 - Row :63 - Processing item.
+09-25-2023 @ 14:25:36 - Processing users.
+09-25-2023 @ 14:25:37 - > &#8220;1054&#8221;User imported successfully. ID:1054
+09-25-2023 @ 14:25:37 - > Finished importing user 1054
+09-25-2023 @ 14:25:37 - Row :63 - User imported successfully.
+09-25-2023 @ 14:25:37 - Row :64 - Parsing item.
+09-25-2023 @ 14:25:37 - > skipped: Email is not valid. willi@surfcenter-altmühlsee.de
+09-25-2023 @ 14:25:37 - Row :64 - Parsing failed. Reason: >  skipped: Email is not valid.
+09-25-2023 @ 14:25:37 - Row :65 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :65 - Parsing failed. Reason: User with same Email already exists. Email: accounting@goldhahnundsampson.de
+09-25-2023 @ 14:25:37 - Row :66 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :66 - Parsing failed. Reason: User with same Email already exists. Email: info@boxenstopp.shop
+09-25-2023 @ 14:25:37 - Row :67 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :67 - Processing item.
+09-25-2023 @ 14:25:37 - Processing users.
+09-25-2023 @ 14:25:37 - > &#8220;1055&#8221;User imported successfully. ID:1055
+09-25-2023 @ 14:25:37 - > Finished importing user 1055
+09-25-2023 @ 14:25:37 - Row :67 - User imported successfully.
+09-25-2023 @ 14:25:37 - Row :68 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :68 - Parsing failed. Reason: User with same Email already exists. Email: saftladen-barthel@gmx.de
+09-25-2023 @ 14:25:37 - Row :69 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :69 - Parsing failed. Reason: User with same Email already exists. Email: info@imkerei-keidel.de
+09-25-2023 @ 14:25:37 - Row :70 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :70 - Parsing failed. Reason: User with same Email already exists. Email: andrea@hofstetter-nandlstadt.de
+09-25-2023 @ 14:25:37 - Row :71 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :71 - Parsing failed. Reason: User with same Email already exists. Email: bk779@web.de
+09-25-2023 @ 14:25:37 - Row :72 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :72 - Parsing failed. Reason: User with same Email already exists. Email: info@probsthof-paf.de
+09-25-2023 @ 14:25:37 - Row :73 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :73 - Parsing failed. Reason: User with same Email already exists. Email: kontakt@naturhof-sackenreuter.de
+09-25-2023 @ 14:25:37 - Row :74 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :74 - Parsing failed. Reason: User with same Email already exists. Email: dorfladen@marktzeuln.de
+09-25-2023 @ 14:25:37 - Row :75 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :75 - Parsing failed. Reason: User with same Email already exists. Email: baeckerei.wittmann@gmx.de
+09-25-2023 @ 14:25:37 - Row :76 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :76 - Parsing failed. Reason: User with same Email already exists. Email: anton-l@gmx.net
+09-25-2023 @ 14:25:37 - Row :77 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :77 - Parsing failed. Reason: User with same Email already exists. Email: info@dorfladen-eisenheim.de
+09-25-2023 @ 14:25:37 - Row :78 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :78 - Parsing failed. Reason: User with same Email already exists. Email: d.braunmiller71@mein.gmx
+09-25-2023 @ 14:25:37 - Row :79 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :79 - Parsing failed. Reason: User with same Email already exists. Email: DerHofladen@gmx.de
+09-25-2023 @ 14:25:37 - Row :80 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :80 - Parsing failed. Reason: User with same Email already exists. Email: info@giertensmuehle.de
+09-25-2023 @ 14:25:37 - Row :81 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :81 - Parsing failed. Reason: User with same Email already exists. Email: felix.bense@gudgoods.de
+09-25-2023 @ 14:25:37 - Row :82 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :82 - Parsing failed. Reason: User with same Email already exists. Email: robinschneider99@gmx.de
+09-25-2023 @ 14:25:37 - Row :83 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :83 - Parsing failed. Reason: User with same Email already exists. Email: info@endress-markt.de
+09-25-2023 @ 14:25:37 - Row :84 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :84 - Parsing failed. Reason: User with same Email already exists. Email: st@neuehoefe.de
+09-25-2023 @ 14:25:37 - Row :85 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :85 - Parsing failed. Reason: User with same Email already exists. Email: info@bells-genusshof.de
+09-25-2023 @ 14:25:37 - Row :86 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :86 - Parsing failed. Reason: User with same Email already exists. Email: mayr.hofheim@t-online.de
+09-25-2023 @ 14:25:37 - Row :87 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :87 - Processing item.
+09-25-2023 @ 14:25:37 - Processing users.
+09-25-2023 @ 14:25:37 - > &#8220;1056&#8221;User imported successfully. ID:1056
+09-25-2023 @ 14:25:37 - > Finished importing user 1056
+09-25-2023 @ 14:25:37 - Row :87 - User imported successfully.
+09-25-2023 @ 14:25:37 - Row :88 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :88 - Parsing failed. Reason: User with same Email already exists. Email: daniela@obstfee.de
+09-25-2023 @ 14:25:37 - Row :89 - Parsing item.
+09-25-2023 @ 14:25:37 - Row :89 - Parsing failed. Reason: User with same Email already exists. Email: info@weingut-froehlich.de
+09-25-2023 @ 14:25:37 - ---[ Import ended at 2023-09-25 12:25:37]---

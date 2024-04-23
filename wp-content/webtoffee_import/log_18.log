@@ -1,0 +1,37 @@
+a:4:{s:3:"row";i:1;s:7:"message";s:69:"User with same Email already exists. Email: rechnung@edeka-volkach.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:2;s:7:"message";s:76:"User with same Email already exists. Email: info@klostermuehle-altenmarkt.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:3;s:7:"message";s:74:"User with same Email already exists. Email: info@bammersdorfer-weide-ei.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:4;s:7:"message";s:80:"User with same Email already exists. Email: obergschaidter.bauernladen@gmail.com";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:5;s:7:"message";s:69:"User with same Email already exists. Email: info@milchhof-stroebel.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:6;s:7:"message";s:64:"User with same Email already exists. Email: juzill.jrz@gmail.com";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:7;s:7:"message";s:68:"User with same Email already exists. Email: franzi@projekt-direkt.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:8;s:7:"message";s:70:"User with same Email already exists. Email: bernd.lohbauer@t-online.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:9;s:7:"message";s:72:"User with same Email already exists. Email: buchhaltung@eichenbuehler.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:10;s:7:"message";s:78:"User with same Email already exists. Email: Sandra.Rottenkolber@vinzenzmurr.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:11;s:7:"message";s:74:"User with same Email already exists. Email: info@gasthaus-zum-wiesental.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:12;s:7:"message";s:67:"User with same Email already exists. Email: hannes_brandt.87@gmx.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:13;s:7:"message";s:63:"User with same Email already exists. Email: horst.aigner@gmx.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:14;s:7:"message";s:65:"User with same Email already exists. Email: petra.moosbach@web.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:15;s:7:"message";s:44:"> skipped: cannot insert user without email.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:16;s:7:"message";s:68:"User with same Email already exists. Email: lukas.wust@edeka-wust.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:17;s:7:"message";s:63:"User with same Email already exists. Email: supermarkt@burkl.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:18;s:7:"message";s:44:"> skipped: cannot insert user without email.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:19;s:7:"message";s:70:"User with same Email already exists. Email: dodal-regional@t-online.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:20;s:7:"message";s:65:"User with same Email already exists. Email: 13365ml@edeka-nbst.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:21;s:7:"message";s:31:">  skipped: Email is not valid.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:22;s:7:"message";s:71:"User with same Email already exists. Email: bauernladen-sch@t-online.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:23;s:7:"message";s:74:"User with same Email already exists. Email: gruendlacherbauernladen@web.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:24;s:7:"message";s:65:"User with same Email already exists. Email: bachs-hofladen@web.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:25;s:7:"message";s:64:"User with same Email already exists. Email: stefan@starbridge.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:26;s:7:"message";s:68:"User with same Email already exists. Email: info@e-center-schaetz.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:27;s:7:"message";s:68:"User with same Email already exists. Email: info@e-center-schaetz.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:28;s:7:"message";s:68:"User with same Email already exists. Email: info@bergschreinerhof.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:29;s:7:"message";s:68:"User with same Email already exists. Email: luisa.frank@fffrische.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:30;s:7:"message";s:75:"User with same Email already exists. Email: christian.schuck@edeka-didis.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:31;s:7:"message";s:64:"User with same Email already exists. Email: basti-siegert@web.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:32;s:7:"message";s:67:"User with same Email already exists. Email: mandels.hofladen@web.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:33;s:7:"message";s:70:"User with same Email already exists. Email: info@diegetraenkeritter.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:34;s:7:"message";s:70:"User with same Email already exists. Email: koenig@edeka-burgebrach.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:35;s:7:"message";s:68:"User with same Email already exists. Email: luisa.frank@fffrische.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:36;s:7:"message";s:68:"User with same Email already exists. Email: luisa.frank@fffrische.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:37;s:7:"message";s:82:"User with same Email already exists. Email: thea.eckendoerfer@auto-eckendoerfer.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}

@@ -1,0 +1,71 @@
+11-20-2022 @ 12:31:34 - ---[ New import started at 2022-11-20 11:31:34 ] PHP Memory: 256 MB, WP Memory: 40 MB
+11-20-2022 @ 12:31:34 - Preparing for import.
+11-20-2022 @ 12:31:34 - Row :1 - Parsing item.
+11-20-2022 @ 12:31:34 - Row :1 - Processing item.
+11-20-2022 @ 12:31:34 - Processing users.
+11-20-2022 @ 12:31:34 - > &#8220;618&#8221;User imported successfully. ID:618
+11-20-2022 @ 12:31:34 - > Finished importing user 618
+11-20-2022 @ 12:31:34 - Row :1 - User imported successfully.
+11-20-2022 @ 12:31:34 - Row :2 - Parsing item.
+11-20-2022 @ 12:31:34 - Row :2 - Parsing failed. Reason: User with same Email already exists. Email: mathias.daffner@web.de
+11-20-2022 @ 12:31:34 - Row :3 - Parsing item.
+11-20-2022 @ 12:31:34 - Row :3 - Parsing failed. Reason: User with same Email already exists. Email: c.krafft@delikatessen-berge.de
+11-20-2022 @ 12:31:34 - Row :4 - Parsing item.
+11-20-2022 @ 12:31:34 - Row :4 - Parsing failed. Reason: User with same Email already exists. Email: Anna-Dina.Priller@Ansitz-Hohenegg.de
+11-20-2022 @ 12:31:34 - Row :5 - Parsing item.
+11-20-2022 @ 12:31:34 - Row :5 - Processing item.
+11-20-2022 @ 12:31:34 - Processing users.
+11-20-2022 @ 12:31:35 - > &#8220;619&#8221;User imported successfully. ID:619
+11-20-2022 @ 12:31:35 - > Finished importing user 619
+11-20-2022 @ 12:31:35 - Row :5 - User imported successfully.
+11-20-2022 @ 12:31:35 - Row :6 - Parsing item.
+11-20-2022 @ 12:31:35 - Row :6 - Processing item.
+11-20-2022 @ 12:31:35 - Processing users.
+11-20-2022 @ 12:31:35 - > &#8220;620&#8221;User imported successfully. ID:620
+11-20-2022 @ 12:31:35 - > Finished importing user 620
+11-20-2022 @ 12:31:35 - Row :6 - User imported successfully.
+11-20-2022 @ 12:31:35 - Row :7 - Parsing item.
+11-20-2022 @ 12:31:35 - Row :7 - Processing item.
+11-20-2022 @ 12:31:35 - Processing users.
+11-20-2022 @ 12:31:35 - > &#8220;621&#8221;User imported successfully. ID:621
+11-20-2022 @ 12:31:35 - > Finished importing user 621
+11-20-2022 @ 12:31:35 - Row :7 - User imported successfully.
+11-20-2022 @ 12:31:35 - Row :8 - Parsing item.
+11-20-2022 @ 12:31:35 - Row :8 - Processing item.
+11-20-2022 @ 12:31:35 - Processing users.
+11-20-2022 @ 12:31:36 - > &#8220;622&#8221;User imported successfully. ID:622
+11-20-2022 @ 12:31:36 - > Finished importing user 622
+11-20-2022 @ 12:31:36 - Row :8 - User imported successfully.
+11-20-2022 @ 12:31:36 - Row :9 - Parsing item.
+11-20-2022 @ 12:31:36 - Row :9 - Processing item.
+11-20-2022 @ 12:31:36 - Processing users.
+11-20-2022 @ 12:31:36 - > &#8220;623&#8221;User imported successfully. ID:623
+11-20-2022 @ 12:31:36 - > Finished importing user 623
+11-20-2022 @ 12:31:36 - Row :9 - User imported successfully.
+11-20-2022 @ 12:31:36 - Row :10 - Parsing item.
+11-20-2022 @ 12:31:36 - Row :10 - Processing item.
+11-20-2022 @ 12:31:36 - Processing users.
+11-20-2022 @ 12:31:36 - > &#8220;624&#8221;User imported successfully. ID:624
+11-20-2022 @ 12:31:36 - > Finished importing user 624
+11-20-2022 @ 12:31:36 - Row :10 - User imported successfully.
+11-20-2022 @ 12:31:36 - Row :11 - Parsing item.
+11-20-2022 @ 12:31:36 - Row :11 - Processing item.
+11-20-2022 @ 12:31:36 - Processing users.
+11-20-2022 @ 12:31:37 - > &#8220;625&#8221;User imported successfully. ID:625
+11-20-2022 @ 12:31:37 - > Finished importing user 625
+11-20-2022 @ 12:31:37 - Row :11 - User imported successfully.
+11-20-2022 @ 12:31:37 - Row :12 - Parsing item.
+11-20-2022 @ 12:31:37 - Row :12 - Processing item.
+11-20-2022 @ 12:31:37 - Processing users.
+11-20-2022 @ 12:31:37 - > &#8220;626&#8221;User imported successfully. ID:626
+11-20-2022 @ 12:31:37 - > Finished importing user 626
+11-20-2022 @ 12:31:37 - Row :12 - User imported successfully.
+11-20-2022 @ 12:31:37 - Row :13 - Parsing item.
+11-20-2022 @ 12:31:37 - Row :13 - Processing item.
+11-20-2022 @ 12:31:37 - Processing users.
+11-20-2022 @ 12:31:37 - > &#8220;627&#8221;User imported successfully. ID:627
+11-20-2022 @ 12:31:37 - > Finished importing user 627
+11-20-2022 @ 12:31:37 - Row :13 - User imported successfully.
+11-20-2022 @ 12:31:37 - Row :14 - Parsing item.
+11-20-2022 @ 12:31:37 - Row :14 - Parsing failed. Reason: User with same Email already exists. Email: info@hartmann-weideschweine.de
+11-20-2022 @ 12:31:37 - ---[ Import ended at 2022-11-20 11:31:37]---

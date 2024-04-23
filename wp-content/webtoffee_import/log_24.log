@@ -1,0 +1,14 @@
+a:4:{s:3:"row";i:1;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:618;}
+a:4:{s:3:"row";i:2;s:7:"message";s:66:"User with same Email already exists. Email: mathias.daffner@web.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:3;s:7:"message";s:74:"User with same Email already exists. Email: c.krafft@delikatessen-berge.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:4;s:7:"message";s:80:"User with same Email already exists. Email: Anna-Dina.Priller@Ansitz-Hohenegg.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:5;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:619;}
+a:4:{s:3:"row";i:6;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:620;}
+a:4:{s:3:"row";i:7;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:621;}
+a:4:{s:3:"row";i:8;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:622;}
+a:4:{s:3:"row";i:9;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:623;}
+a:4:{s:3:"row";i:10;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:624;}
+a:4:{s:3:"row";i:11;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:625;}
+a:4:{s:3:"row";i:12;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:626;}
+a:4:{s:3:"row";i:13;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:627;}
+a:4:{s:3:"row";i:14;s:7:"message";s:74:"User with same Email already exists. Email: info@hartmann-weideschweine.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}

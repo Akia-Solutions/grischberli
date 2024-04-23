@@ -1,0 +1,6 @@
+html[lang="en-US"] .quantity:before {/* add another entry for translation */
+	content:"Quantity:"; /* text before input */
+	margin-right:20px
+}
+
+

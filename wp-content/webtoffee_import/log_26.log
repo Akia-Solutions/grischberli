@@ -1,0 +1,38 @@
+a:4:{s:3:"row";i:1;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:727;}
+a:4:{s:3:"row";i:2;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:728;}
+a:4:{s:3:"row";i:3;s:7:"message";s:44:"> skipped: cannot insert user without email.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:4;s:7:"message";s:73:"User with same Email already exists. Email: info@dorfladen-obertrubach.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:5;s:7:"message";s:74:"User with same Email already exists. Email: myriam.haber@lokbest-store.com";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:6;s:7:"message";s:70:"User with same Email already exists. Email: info@schmittsobstgarten.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:7;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:729;}
+a:4:{s:3:"row";i:8;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:730;}
+a:4:{s:3:"row";i:9;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:731;}
+a:4:{s:3:"row";i:10;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:732;}
+a:4:{s:3:"row";i:11;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:733;}
+a:4:{s:3:"row";i:12;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:734;}
+a:4:{s:3:"row";i:13;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:735;}
+a:4:{s:3:"row";i:14;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:736;}
+a:4:{s:3:"row";i:15;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:737;}
+a:4:{s:3:"row";i:16;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:738;}
+a:4:{s:3:"row";i:17;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:739;}
+a:4:{s:3:"row";i:18;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:740;}
+a:4:{s:3:"row";i:19;s:7:"message";s:64:"User with same Email already exists. Email: schmitthof@gmail.com";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:20;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:741;}
+a:4:{s:3:"row";i:21;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:742;}
+a:4:{s:3:"row";i:22;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:743;}
+a:4:{s:3:"row";i:23;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:744;}
+a:4:{s:3:"row";i:24;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:745;}
+a:4:{s:3:"row";i:25;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:746;}
+a:4:{s:3:"row";i:26;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:747;}
+a:4:{s:3:"row";i:27;s:7:"message";s:64:"User with same Email already exists. Email: web31p1@waglerhof.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:28;s:7:"message";s:75:"User with same Email already exists. Email: birkenhof-warmbronn@t-online.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:29;s:7:"message";s:66:"User with same Email already exists. Email: j.meinecke@t-online.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:30;s:7:"message";s:57:"User with same Email already exists. Email: info@hemmi.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:31;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:748;}
+a:4:{s:3:"row";i:32;s:7:"message";s:44:"> skipped: cannot insert user without email.";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:33;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:749;}
+a:4:{s:3:"row";i:34;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:750;}
+a:4:{s:3:"row";i:35;s:7:"message";s:76:"User with same Email already exists. Email: restaurant.meyershof@t-online.de";s:6:"status";b:0;s:7:"post_id";s:0:"";}
+a:4:{s:3:"row";i:36;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:751;}
+a:4:{s:3:"row";i:37;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:752;}
+a:4:{s:3:"row";i:38;s:7:"message";s:27:"User imported successfully.";s:6:"status";b:1;s:7:"post_id";i:753;}

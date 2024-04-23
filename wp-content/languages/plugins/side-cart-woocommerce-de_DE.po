@@ -1,0 +1,68 @@
+# Translation of Plugins - Side Cart Woocommerce (Ajax) - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Side Cart Woocommerce (Ajax) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-05 20:07:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Side Cart Woocommerce (Ajax) - Stable (latest release)\n"
+
+#: includes/class-xoo-wsc-frontend.php:85
+msgid "Please enter promo code"
+msgstr "Bitte Gutscheincode eingeben"
+
+#: includes/class-xoo-wsc-frontend.php:84
+msgid "Please use checkout form to calculate shipping"
+msgstr "Bitte benutze das Bestellformular, um den Versand zu berechnen."
+
+#: includes/class-xoo-wsc-frontend.php:83
+msgid "Quantity can only be purchased in multiple of %s%"
+msgstr "Menge kann nur in Vielfachen von %s% gekauft werden"
+
+#: includes/class-xoo-wsc-frontend.php:82
+msgid "Only %s% in stock"
+msgstr "Nur %s% auf Lager"
+
+#: includes/class-xoo-wsc-cart.php:140
+msgid "Item updated"
+msgstr "Artikel aktualisiert"
+
+#: includes/class-xoo-wsc-cart.php:136
+msgid "Undo?"
+msgstr "Rückgängig machen?"
+
+#: includes/class-xoo-wsc-cart.php:134
+msgid "Item removed"
+msgstr "Artikel entfernt"
+
+#: templates/global/body/product.php:56
+msgid "Price: "
+msgstr "Preis:"
+
+#: templates/xoo-wsc-body.php:30
+msgid "Empty Cart"
+msgstr "Warenkorb leeren"
+
+#. Plugin URI of the plugin
+msgid "http://xootix.com/side-cart-woocommerce"
+msgstr "http://xootix.com/side-cart-woocommerce"
+
+#. Plugin Name of the plugin
+msgid "Side Cart WooCommerce"
+msgstr "Seitlicher WooCommerce-Warenkorb"
+
+#: templates/global/body/product.php:71
+msgid "Qty:"
+msgstr "Menge:"
+
+#. Author of the plugin
+msgid "XootiX"
+msgstr "XootiX"
+
+#. Author URI of the plugin
+msgid "http://xootix.com"
+msgstr "http://xootix.com"

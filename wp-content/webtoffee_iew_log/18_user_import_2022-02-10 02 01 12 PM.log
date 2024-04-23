@@ -1,0 +1,80 @@
+02-10-2022 @ 15:01:12 - ---[ New import started at 2022-02-10 14:01:12 ] PHP Memory: 256 MB, WP Memory: 40 MB
+02-10-2022 @ 15:01:12 - Preparing for import.
+02-10-2022 @ 15:01:12 - Row :1 - Parsing item.
+02-10-2022 @ 15:01:12 - Row :1 - Parsing failed. Reason: User with same Email already exists. Email: rechnung@edeka-volkach.de
+02-10-2022 @ 15:01:12 - Row :2 - Parsing item.
+02-10-2022 @ 15:01:12 - Row :2 - Parsing failed. Reason: User with same Email already exists. Email: info@klostermuehle-altenmarkt.de
+02-10-2022 @ 15:01:12 - Row :3 - Parsing item.
+02-10-2022 @ 15:01:12 - Row :3 - Parsing failed. Reason: User with same Email already exists. Email: info@bammersdorfer-weide-ei.de
+02-10-2022 @ 15:01:12 - Row :4 - Parsing item.
+02-10-2022 @ 15:01:12 - Row :4 - Parsing failed. Reason: User with same Email already exists. Email: obergschaidter.bauernladen@gmail.com
+02-10-2022 @ 15:01:12 - Row :5 - Parsing item.
+02-10-2022 @ 15:01:12 - Row :5 - Parsing failed. Reason: User with same Email already exists. Email: info@milchhof-stroebel.de
+02-10-2022 @ 15:01:12 - Row :6 - Parsing item.
+02-10-2022 @ 15:01:12 - Row :6 - Parsing failed. Reason: User with same Email already exists. Email: juzill.jrz@gmail.com
+02-10-2022 @ 15:01:12 - Row :7 - Parsing item.
+02-10-2022 @ 15:01:12 - Row :7 - Parsing failed. Reason: User with same Email already exists. Email: franzi@projekt-direkt.de
+02-10-2022 @ 15:01:12 - Row :8 - Parsing item.
+02-10-2022 @ 15:01:12 - Row :8 - Parsing failed. Reason: User with same Email already exists. Email: bernd.lohbauer@t-online.de
+02-10-2022 @ 15:01:12 - Row :9 - Parsing item.
+02-10-2022 @ 15:01:12 - Row :9 - Parsing failed. Reason: User with same Email already exists. Email: buchhaltung@eichenbuehler.de
+02-10-2022 @ 15:01:12 - Row :10 - Parsing item.
+02-10-2022 @ 15:01:12 - Row :10 - Parsing failed. Reason: User with same Email already exists. Email: Sandra.Rottenkolber@vinzenzmurr.de
+02-10-2022 @ 15:01:12 - Row :11 - Parsing item.
+02-10-2022 @ 15:01:12 - Row :11 - Parsing failed. Reason: User with same Email already exists. Email: info@gasthaus-zum-wiesental.de
+02-10-2022 @ 15:01:12 - Row :12 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :12 - Parsing failed. Reason: User with same Email already exists. Email: hannes_brandt.87@gmx.de
+02-10-2022 @ 15:01:13 - Row :13 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :13 - Parsing failed. Reason: User with same Email already exists. Email: horst.aigner@gmx.de
+02-10-2022 @ 15:01:13 - Row :14 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :14 - Parsing failed. Reason: User with same Email already exists. Email: petra.moosbach@web.de
+02-10-2022 @ 15:01:13 - Row :15 - Parsing item.
+02-10-2022 @ 15:01:13 - > skipped: cannot insert user without email.
+02-10-2022 @ 15:01:13 - Row :15 - Parsing failed. Reason: > skipped: cannot insert user without email.
+02-10-2022 @ 15:01:13 - Row :16 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :16 - Parsing failed. Reason: User with same Email already exists. Email: lukas.wust@edeka-wust.de
+02-10-2022 @ 15:01:13 - Row :17 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :17 - Parsing failed. Reason: User with same Email already exists. Email: supermarkt@burkl.de
+02-10-2022 @ 15:01:13 - Row :18 - Parsing item.
+02-10-2022 @ 15:01:13 - > skipped: cannot insert user without email.
+02-10-2022 @ 15:01:13 - Row :18 - Parsing failed. Reason: > skipped: cannot insert user without email.
+02-10-2022 @ 15:01:13 - Row :19 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :19 - Parsing failed. Reason: User with same Email already exists. Email: dodal-regional@t-online.de
+02-10-2022 @ 15:01:13 - Row :20 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :20 - Parsing failed. Reason: User with same Email already exists. Email: 13365ml@edeka-nbst.de
+02-10-2022 @ 15:01:13 - Row :21 - Parsing item.
+02-10-2022 @ 15:01:13 - > skipped: Email is not valid. info[@]puralei.de
+02-10-2022 @ 15:01:13 - Row :21 - Parsing failed. Reason: >  skipped: Email is not valid.
+02-10-2022 @ 15:01:13 - Row :22 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :22 - Parsing failed. Reason: User with same Email already exists. Email: bauernladen-sch@t-online.de
+02-10-2022 @ 15:01:13 - Row :23 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :23 - Parsing failed. Reason: User with same Email already exists. Email: gruendlacherbauernladen@web.de
+02-10-2022 @ 15:01:13 - Row :24 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :24 - Parsing failed. Reason: User with same Email already exists. Email: bachs-hofladen@web.de
+02-10-2022 @ 15:01:13 - Row :25 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :25 - Parsing failed. Reason: User with same Email already exists. Email: stefan@starbridge.de
+02-10-2022 @ 15:01:13 - Row :26 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :26 - Parsing failed. Reason: User with same Email already exists. Email: info@e-center-schaetz.de
+02-10-2022 @ 15:01:13 - Row :27 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :27 - Parsing failed. Reason: User with same Email already exists. Email: info@e-center-schaetz.de
+02-10-2022 @ 15:01:13 - Row :28 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :28 - Parsing failed. Reason: User with same Email already exists. Email: info@bergschreinerhof.de
+02-10-2022 @ 15:01:13 - Row :29 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :29 - Parsing failed. Reason: User with same Email already exists. Email: luisa.frank@fffrische.de
+02-10-2022 @ 15:01:13 - Row :30 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :30 - Parsing failed. Reason: User with same Email already exists. Email: christian.schuck@edeka-didis.de
+02-10-2022 @ 15:01:13 - Row :31 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :31 - Parsing failed. Reason: User with same Email already exists. Email: basti-siegert@web.de
+02-10-2022 @ 15:01:13 - Row :32 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :32 - Parsing failed. Reason: User with same Email already exists. Email: mandels.hofladen@web.de
+02-10-2022 @ 15:01:13 - Row :33 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :33 - Parsing failed. Reason: User with same Email already exists. Email: info@diegetraenkeritter.de
+02-10-2022 @ 15:01:13 - Row :34 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :34 - Parsing failed. Reason: User with same Email already exists. Email: koenig@edeka-burgebrach.de
+02-10-2022 @ 15:01:13 - Row :35 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :35 - Parsing failed. Reason: User with same Email already exists. Email: luisa.frank@fffrische.de
+02-10-2022 @ 15:01:13 - Row :36 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :36 - Parsing failed. Reason: User with same Email already exists. Email: luisa.frank@fffrische.de
+02-10-2022 @ 15:01:13 - Row :37 - Parsing item.
+02-10-2022 @ 15:01:13 - Row :37 - Parsing failed. Reason: User with same Email already exists. Email: thea.eckendoerfer@auto-eckendoerfer.de
+02-10-2022 @ 15:01:13 - ---[ Import ended at 2022-02-10 14:01:13]---
