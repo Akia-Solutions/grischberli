@@ -2,14 +2,17 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-06-08 19:26:32+0000\n"
+"Project-Id-Version: Plugins - WooCommerce - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-04-23 22:50+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/3.0.0-alpha.2\n"
-"Language: de\n"
-"Project-Id-Version: Plugins - WooCommerce - Stable (latest release)\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #: packages/woocommerce-admin/src/Features/CustomerEffortScoreTracks.php:322
 msgid "How easy was it to add a product tag?"
@@ -21675,6 +21678,14 @@ msgstr "Neues Passwort (leer lassen für keine Änderung)"
 #: templates/cart/proceed-to-checkout-button.php:26
 msgid "Proceed to checkout"
 msgstr "Weiter zur Kasse"
+
+#: templates/cart/proceed-to-checkout-button.php:49
+msgid "Quantity warning"
+msgstr "Mengen warnung"
+
+#: templates/cart/proceed-to-checkout-button.php:50
+msgid "The total quantity of selected products must be an even number."
+msgstr "Die Gesamtmenge der ausgewählten Produkte muss eine gerade Zahl sein."
 
 #: templates/myaccount/form-edit-account.php:51
 msgid "Current password (leave blank to leave unchanged)"
