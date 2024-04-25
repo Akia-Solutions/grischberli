@@ -100,9 +100,7 @@ function woa_woocommerce_quantity_input_args( $args, $product ) {
 		wc_enqueue_js( '
 		jQuery(function($) {
 		$("form.cart").on("change", "input.qty", function() {
-		if (this.value % 2 !== 0) {
-        this.value = parseInt(this.value) + 1
-        }
+		
         $(this.form).find("[data-quantity]").attr("data-quantity", this.value);  //used attr instead of data, for WC 4.0 compatibility
         });
 		' );
