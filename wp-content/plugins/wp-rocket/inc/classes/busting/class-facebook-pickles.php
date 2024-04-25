@@ -67,7 +67,7 @@ class Facebook_Pickles {
 	 * @access private
 	 * @author Grégory Viguier
 	 */
-	private $main_file_url = 'https://connect.facebook.net/%s/fbevents.js';
+//	private $main_file_url = 'https://connect.facebook.net/%s/fbevents.js';
 
 	/**
 	 * Main file name (local).

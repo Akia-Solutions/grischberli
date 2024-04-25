@@ -546,7 +546,7 @@ jQuery(document).ready(function($){
 				cart_key: cart_key,
 				qty: qty
 			}
-
+			console.log(10)
 			$.ajax({
 				url: get_wcurl( 'xoo_wsc_update_item_quantity' ),
 				type: 'POST',

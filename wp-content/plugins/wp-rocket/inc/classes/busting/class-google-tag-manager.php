@@ -96,39 +96,39 @@ class Google_Tag_Manager extends Abstract_Busting {
 	 * @param string $html HTML content.
 	 * @return string
 	 */
-	public function replace_url( $html ) {
-		$script = $this->find( '<script(\s+[^>]+)?\s+src\s*=\s*[\'"]\s*?((?:https?:)?\/\/www\.googletagmanager\.com(?:.+)?)\s*?[\'"]([^>]+)?\/?>', $html );
-
-		if ( ! $script ) {
-			return $html;
-		}
-
-		Logger::info(
-			'GOOGLE TAG MANAGER CACHING PROCESS STARTED.',
-			[
-				self::LOGGER_CONTEXT,
-				'tag' => $script,
-			]
-		);
-
-		if ( ! $this->save( $script[2] ) ) {
-			return $html;
-		}
-
-		$replace_script = str_replace( $script[2], $this->get_busting_url(), $script[0] );
-		$replace_script = str_replace( '<script', '<script data-no-minify="1"', $replace_script );
-		$html           = str_replace( $script[0], $replace_script, $html );
-
-		Logger::info(
-			'Google Tag Manager caching process succeeded.',
-			[
-				self::LOGGER_CONTEXT,
-				'file' => $this->get_busting_path(),
-			]
-		);
-
-		return $html;
-	}
+//	public function replace_url( $html ) {
+/*		$script = $this->find( '<script(\s+[^>]+)?\s+src\s*=\s*[\'"]\s*?((?:https?:)?\/\/www\.googletagmanager\.com(?:.+)?)\s*?[\'"]([^>]+)?\/?>', $html );*/
+//
+//		if ( ! $script ) {
+//			return $html;
+//		}
+//
+//		Logger::info(
+//			'GOOGLE TAG MANAGER CACHING PROCESS STARTED.',
+//			[
+//				self::LOGGER_CONTEXT,
+//				'tag' => $script,
+//			]
+//		);
+//
+//		if ( ! $this->save( $script[2] ) ) {
+//			return $html;
+//		}
+//
+//		$replace_script = str_replace( $script[2], $this->get_busting_url(), $script[0] );
+//		$replace_script = str_replace( '<script', '<script data-no-minify="1"', $replace_script );
+//		$html           = str_replace( $script[0], $replace_script, $html );
+//
+//		Logger::info(
+//			'Google Tag Manager caching process succeeded.',
+//			[
+//				self::LOGGER_CONTEXT,
+//				'file' => $this->get_busting_path(),
+//			]
+//		);
+//
+//		return $html;
+//	}
 
 	/**
 	 * Saves the content of the URL to cache to the busting file.

@@ -81,7 +81,7 @@ class Divi
                     // Add updated settings, global js, and init js of the Content Blocker
                     JavaScript::getInstance()->addContentBlocker(
                         $contentBlockerData['content_blocker_id'],
-                        $contentBlockerData['globalJS'] . ' jQuery("body").append("<" + "script type=\'text/javascript\' src=\'https://maps.googleapis.com/maps/api/js?v=3&#038;key='.urlencode($googleApiSettings['api_key']).'&#038;ver='.ET_BUILDER_PRODUCT_VERSION.'\'"+"><"+"/script>"); ',
+//                        $contentBlockerData['globalJS'] . ' jQuery("body").append("<" + "script type=\'text/javascript\' src=\'https://maps.googleapis.com/maps/api/js?v=3&#038;key='.urlencode($googleApiSettings['api_key']).'&#038;ver='.ET_BUILDER_PRODUCT_VERSION.'\'"+"><"+"/script>"); ',
                         $contentBlockerData['initJS'] . ' var borlabsDiviGoogleMaps = setInterval(function () { if (typeof google !== "undefined" && typeof google.maps !== "undefined") { clearInterval(borlabsDiviGoogleMaps); jQuery(".et_pb_map_container").each(function () { if (jQuery(this).children(".et_pb_map").length) { window.et_pb_map_init(jQuery(this)); }}); } }, 125); ',
                         $contentBlockerData['settings']
                     );
@@ -128,10 +128,10 @@ class Divi
      */
     public function loadGoogleMapsAPI ()
     {
-        add_action('wp_head', function () {
-            $googleApiSettings = get_option('et_google_api_settings');
-            echo '<script type=\'text/javascript\' src=\'https://maps.googleapis.com/maps/api/js?v=3&#038;key='.urlencode($googleApiSettings['api_key']).'&#038;ver='.ET_BUILDER_PRODUCT_VERSION.'\'></script>';
-        });
+//        add_action('wp_head', function () {
+//            $googleApiSettings = get_option('et_google_api_settings');
+//            echo '<script type=\'text/javascript\' src=\'https://maps.googleapis.com/maps/api/js?v=3&#038;key='.urlencode($googleApiSettings['api_key']).'&#038;ver='.ET_BUILDER_PRODUCT_VERSION.'\'></script>';
+//        });
     }
 
     /**

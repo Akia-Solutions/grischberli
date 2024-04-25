@@ -101,6 +101,7 @@ if (!class_exists('wt_legecy_menu_moved')) {
                         e.preventDefault();
                         var elm = $(this);
                         elm.parents('.<?php echo $this->banner_css_class; ?>').hide();
+                        console.log(14)
 
                         $.ajax({
                             url: '<?php echo $ajax_url; ?>',

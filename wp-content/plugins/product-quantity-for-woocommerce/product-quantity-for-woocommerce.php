@@ -8,7 +8,7 @@ Author: WPWhale
 Author URI: http://www.wpwhale.com
 Text Domain: product-quantity-for-woocommerce
 Domain Path: /langs
-Copyright: © 2021 WPWhale
+Copyright: ï¿½ 2021 WPWhale
 WC tested up to: 5.6
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html

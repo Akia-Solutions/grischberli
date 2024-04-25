@@ -33824,6 +33824,14 @@ msgstr ""
 msgid "Proceed to checkout"
 msgstr ""
 
+#: templates/cart/proceed-to-checkout-button.php:49
+msgid "Quantity warning"
+msgstr ""
+
+#: templates/cart/proceed-to-checkout-button.php:50
+msgid "The total quantity of selected products must be an even number."
+msgstr ""
+
 #: templates/cart/shipping-calculator.php:24
 msgid "Calculate shipping"
 msgstr ""

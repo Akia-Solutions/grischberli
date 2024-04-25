@@ -100,9 +100,9 @@ function ga_google_analytics_universal() {
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			});
 			ga('create', '<?php echo $tracking_id; ?>'<?php echo $auto; if ($tracker_object) echo ', '. stripslashes(rtrim($tracker_object)); ?>);
-			<?php 
+			<?php
 				if ($custom_code) echo $custom_code . "\n\t\t\t";
 				if ($display_ads) echo $ga_display  . "\n\t\t\t";
 				if ($link_attr)   echo $ga_link     . "\n\t\t\t";
@@ -128,7 +128,7 @@ function ga_google_analytics_global() {
 	?>
 
 		<?php echo ga_google_analytics_credit(); ?>
-		<script<?php echo esc_attr($script_atts_ext); ?> src="https://www.googletagmanager.com/gtag/js?id=<?php echo $tracking_id; ?>"></script>
+<!--		<script--><?php //echo esc_attr($script_atts_ext); ?><!-- src="https://www.googletagmanager.com/gtag/js?id=--><?php //echo $tracking_id; ?><!--"></script>-->
 		<script<?php echo esc_attr($script_atts); ?>>
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}

@@ -114,21 +114,21 @@ class GoogleAnalytics
      * @access private
      * @return void
      */
-    private function optInJS()
-    {
-        $code = <<<EOT
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=%%trackingId%%"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag("js", new Date());
-
-gtag("config", "%%trackingId%%", { "anonymize_ip": true });
-</script>
-EOT;
-        return $code;
-    }
+//    private function optInJS()
+//    {
+//        $code = <<<EOT
+//<!-- Global site tag (gtag.js) - Google Analytics -->
+//<script async src="https://www.googletagmanager.com/gtag/js?id=%%trackingId%%"></script>
+//<script>
+//window.dataLayer = window.dataLayer || [];
+//function gtag(){dataLayer.push(arguments);}
+//gtag("js", new Date());
+//
+//gtag("config", "%%trackingId%%", { "anonymize_ip": true });
+//</script>
+//EOT;
+//        return $code;
+//    }
 
     /**
      * save function.

@@ -38,6 +38,8 @@
 
 			if ( ! $usof.loadingFonts ) {
 				$usof.loadingFonts = true;
+				console.log(13)
+
 				$.ajax( {
 					type: 'POST',
 					url: $usof.ajaxUrl,

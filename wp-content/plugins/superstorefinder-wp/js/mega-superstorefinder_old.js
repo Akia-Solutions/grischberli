@@ -405,7 +405,7 @@ jQuery(function() {
 		googleApi='key='+google_api_key+'&';
 	}
 	
-jQuery.getScript('https://maps.googleapis.com/maps/api/js?'+googleApi+'sensor=false&libraries=places&v=3.15&language='+ssf_m_lang+'&region='+ssf_m_rgn+'&callback=initStoreLocator');
+// jQuery.getScript('https://maps.googleapis.com/maps/api/js?'+googleApi+'sensor=false&libraries=places&v=3.15&language='+ssf_m_lang+'&region='+ssf_m_rgn+'&callback=initStoreLocator');
 
     initStoreLocator = function() {
 

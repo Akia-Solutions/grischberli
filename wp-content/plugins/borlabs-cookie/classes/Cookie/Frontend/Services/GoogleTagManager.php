@@ -49,7 +49,7 @@ class GoogleTagManager
      */
     protected function __construct()
     {
-        add_action('borlabsCookie/cookie/edit/template/settings/GoogleTagManager', [$this, 'additionalSettingsTemplate']);
+//        add_action('borlabsCookie/cookie/edit/template/settings/GoogleTagManager', [$this, 'additionalSettingsTemplate']);
         add_action('borlabsCookie/cookie/save', [$this, 'save']);
     }
 
@@ -59,32 +59,32 @@ class GoogleTagManager
      * @access public
      * @return void
      */
-    public function getDefault()
-    {
-        $data = [
-            'cookieId' => 'google-tag-manager',
-            'service' => 'GoogleTagManager',
-            'name' => 'Google Tag Manager',
-            'provider' => 'Google LLC',
-            'purpose' => _x('Cookie by Google used to control advanced script and event handling.', 'Frontend / Cookie / Google Tag Manager / Text', 'borlabs-cookie'),
-            'privacyPolicyURL' => _x('https://policies.google.com/privacy?hl=en', 'Frontend / Cookie / Google Tag Manager / Text', 'borlabs-cookie'),
-            'hosts' => [],
-            'cookieName' => '_ga,_gat,_gid',
-            'cookieExpiry' => _x('2 Years', 'Frontend / Cookie / Google Tag Manager / Text', 'borlabs-cookie'),
-            'optInJS' => $this->optInJS(),
-            'optOutJS' => '',
-            'fallbackJS' => '',
-            'settings' => [
-                'blockCookiesBeforeConsent' => false,
-                'prioritize' => true,
-                'gtmId' => '',
-            ],
-            'status' => true,
-            'undeletetable' => false,
-        ];
-
-        return $data;
-    }
+//    public function getDefault()
+//    {
+//        $data = [
+//            'cookieId' => 'google-tag-manager',
+//            'service' => 'GoogleTagManager',
+//            'name' => 'Google Tag Manager',
+//            'provider' => 'Google LLC',
+//            'purpose' => _x('Cookie by Google used to control advanced script and event handling.', 'Frontend / Cookie / Google Tag Manager / Text', 'borlabs-cookie'),
+//            'privacyPolicyURL' => _x('https://policies.google.com/privacy?hl=en', 'Frontend / Cookie / Google Tag Manager / Text', 'borlabs-cookie'),
+//            'hosts' => [],
+//            'cookieName' => '_ga,_gat,_gid',
+//            'cookieExpiry' => _x('2 Years', 'Frontend / Cookie / Google Tag Manager / Text', 'borlabs-cookie'),
+//            'optInJS' => $this->optInJS(),
+//            'optOutJS' => '',
+//            'fallbackJS' => '',
+//            'settings' => [
+//                'blockCookiesBeforeConsent' => false,
+//                'prioritize' => true,
+//                'gtmId' => '',
+//            ],
+//            'status' => true,
+//            'undeletetable' => false,
+//        ];
+//
+//        return $data;
+//    }
 
     /**
      * additionalSettingsTemplate function.
@@ -114,19 +114,19 @@ class GoogleTagManager
      * @access private
      * @return void
      */
-    private function optInJS()
-    {
-        $code = <<<EOT
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
-new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
-"https://www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,"script","dataLayer","%%gtmId%%");</script>
-<!-- End Google Tag Manager -->
-EOT;
-        return $code;
-    }
+//    private function optInJS()
+//    {
+//        $code = <<<EOT
+//<!-- Google Tag Manager -->
+//<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+//new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+//j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+//"https://www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+//})(window,document,"script","dataLayer","%%gtmId%%");</script>
+//<!-- End Google Tag Manager -->
+//EOT;
+//        return $code;
+//    }
 
     /**
      * save function.

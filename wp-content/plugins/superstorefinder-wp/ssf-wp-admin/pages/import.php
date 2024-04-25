@@ -377,7 +377,7 @@ function geolocate($address)
 	}else{
 		$google_api_key='';	
 	}
-	$request_url = "https://maps.googleapis.com/maps/api/geocode/json?".$google_api_key."address=".urlencode(trim($address));
+//	$request_url = "https://maps.googleapis.com/maps/api/geocode/json?".$google_api_key."address=".urlencode(trim($address));
 	if (extension_loaded("curl") && function_exists("curl_init")) {
 		$cURL = curl_init();
 		curl_setopt($cURL, CURLOPT_SSL_VERIFYPEER, true);  // Enable SSL verification

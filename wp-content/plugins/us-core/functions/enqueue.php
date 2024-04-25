@@ -150,9 +150,9 @@ function us_jscripts() {
 
 	// Link Google Maps API key
 	if ( $gmaps_api_key = trim( us_get_option( 'gmaps_api_key', '' ) ) ) {
-		wp_register_script( 'us-google-maps', '//maps.googleapis.com/maps/api/js?key=' . esc_attr( $gmaps_api_key ), array(), NULL, FALSE );
+//		wp_register_script( 'us-google-maps', '//maps.googleapis.com/maps/api/js?key=' . esc_attr( $gmaps_api_key ), array(), NULL, FALSE );
 	} else {
-		wp_register_script( 'us-google-maps', '//maps.googleapis.com/maps/api/js', array(), NULL, FALSE );
+//		wp_register_script( 'us-google-maps', '//maps.googleapis.com/maps/api/js', array(), NULL, FALSE );
 	}
 
 	// Embed vendor JS components

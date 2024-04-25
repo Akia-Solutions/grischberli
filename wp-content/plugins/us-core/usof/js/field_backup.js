@@ -26,6 +26,8 @@
 
 		backup: function() {
 			this.$btnBackup.addClass( 'loading' );
+			console.log(11)
+
 			$.ajax( {
 				type: 'POST',
 				url: $usof.ajaxUrl,
@@ -48,6 +50,8 @@
 				return;
 			}
 			this.$btnRestore.addClass( 'loading' );
+			console.log(12)
+
 			$.ajax( {
 				type: 'POST',
 				url: $usof.ajaxUrl,

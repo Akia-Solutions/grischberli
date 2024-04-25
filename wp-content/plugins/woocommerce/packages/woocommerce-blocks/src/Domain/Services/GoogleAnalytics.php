@@ -38,7 +38,7 @@ class GoogleAnalytics {
 	 * Register scripts.
 	 */
 	public function register_assets() {
-		$this->asset_api->register_script( 'wc-blocks-google-analytics', 'build/wc-blocks-google-analytics.js', [ 'google-tag-manager' ] );
+//		$this->asset_api->register_script( 'wc-blocks-google-analytics', 'build/wc-blocks-google-analytics.js', [ 'google-tag-manager' ] );
 	}
 
 	/**
@@ -54,7 +54,7 @@ class GoogleAnalytics {
 
 		if ( ! wp_script_is( 'google-tag-manager', 'registered' ) ) {
 			// phpcs:ignore WordPress.WP.EnqueuedResourceParameters.MissingVersion
-			wp_register_script( 'google-tag-manager', 'https://www.googletagmanager.com/gtag/js?id=' . $settings['ga_id'], [], null, false );
+//			wp_register_script( 'google-tag-manager', 'https://www.googletagmanager.com/gtag/js?id=' . $settings['ga_id'], [], null, false );
 			wp_add_inline_script(
 				'google-tag-manager',
 				"

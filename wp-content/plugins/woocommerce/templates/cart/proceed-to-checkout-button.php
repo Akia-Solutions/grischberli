@@ -20,8 +20,38 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
+$qty=0;
+foreach (WC()->cart->get_cart_item_quantities() as $cart_item_quantity) {
+    $qty+=$cart_item_quantity;
+}
 ?>
+
 
 <a href="<?php echo esc_url( wc_get_checkout_url() ); ?>" class="checkout-button button alt wc-forward">
 	<?php esc_html_e( 'Proceed to checkout', 'woocommerce' ); ?>
 </a>
+<script src="https://unpkg.com/sweetalert2@7.20.1/dist/sweetalert2.all.js"></script>
+<script type="text/javascript">
+    jQuery( function($) {
+        if ( typeof wc_add_to_cart_params === 'undefined' )
+            return false;
+
+        $(document.body).on( 'click', '.checkout-button', function() {
+
+            var totalQty = <?= $qty ?>;
+            var even = parseInt(totalQty) % 2;
+            const toast = swal.mixin({
+                toast: false,
+                showConfirmButton: true,
+            });
+            if (even != 0) {
+                event.preventDefault();
+                toast({
+                    type: 'warning',
+                    title: "<?php esc_html_e('Quantity warning', 'woocommerce'); ?>",
+                    text: "<?php esc_html_e('The total quantity of selected products must be an even number.', 'woocommerce'); ?>",
+                })
+            }
+        });
+    })
+</script>

@@ -398,7 +398,7 @@ if (!class_exists('GA_Google_Analytics')) {
 				
 				1 => array(
 					'value' => 1,
-					'label' => $link1 .' <span class="gap-note">/</span> <code>analytics.js</code> <span class="gap-note">'. esc_html__('(default)', 'ga-google-analytics') .'</span>'
+					'label' => $link1 .' <span class="gap-note">/</span>  <span class="gap-note">'. esc_html__('(default)', 'ga-google-analytics') .'</span>'
 				),
 				2 => array(
 					'value' => 2,

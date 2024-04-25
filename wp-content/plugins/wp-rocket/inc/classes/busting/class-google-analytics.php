@@ -29,7 +29,7 @@ class Google_Analytics extends Abstract_Busting {
 	 * @access protected
 	 * @author Remy Perona
 	 */
-	protected $url = 'https://www.google-analytics.com/analytics.js';
+	protected $url = '';
 
 	/**
 	 * File name (local).

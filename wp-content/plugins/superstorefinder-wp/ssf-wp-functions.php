@@ -550,7 +550,7 @@ function ssf_wp_head_scripts() {
 		// mega locator
 		$tracker = $ssf_wp_vars['ssf_anatrac']=='true' ? true : false;
 		if($tracker){
-			wp_enqueue_script( 'mega-anayltics' , SSF_WP_JS_BASE.'/super-analytics.js' , array( 'jquery' ) , '1.0' , true );
+//			wp_enqueue_script( 'mega-anayltics' , SSF_WP_JS_BASE.'/super-analytics.js' , array( 'jquery' ) , '1.0' , true );
 		}
 		
 		/** Search Widget Auto-complete **/
@@ -3808,7 +3808,7 @@ function ssf_wp_location_form($mode="add", $pre_html="", $post_html=""){
     global $ssf_wp_vars;
 	$google_api_key=getGoogleMapsApi();
 	wp_enqueue_script( 'mega-finder-geo' , SSF_WP_JS_BASE.'/geoip.php' , array( 'jquery' ) , '1.0' , true );
-	wp_enqueue_script( 'mega-superstorfinder' , 'https://maps.googleapis.com/maps/api/js?'.$google_api_key.'sensor=false' , array( 'jquery' ) , '1.0' , true );
+//	wp_enqueue_script( 'mega-superstorfinder' , 'https://maps.googleapis.com/maps/api/js?'.$google_api_key.'sensor=false' , array( 'jquery' ) , '1.0' , true );
 
 	wp_enqueue_script( 'mega-finder' , SSF_WP_JS_BASE.'/super-store-finder.js' , array( 'jquery' ) , '1.0' , true );
 	
@@ -4558,7 +4558,7 @@ function ssf_wp_single_location_info($value, $colspan, $bgcol) {
    
     $google_api_key=getGoogleMapsApi();
 	wp_enqueue_script( 'mega-finder-geo' , SSF_WP_JS_BASE.'/geoip.php' , array( 'jquery' ) , '1.0' , true );
-	wp_enqueue_script( 'mega-superstorfinder' , 'https://maps.googleapis.com/maps/api/js?'.$google_api_key.'sensor=false' , array( 'jquery' ) , '1.0' , true );
+//	wp_enqueue_script( 'mega-superstorfinder' , 'https://maps.googleapis.com/maps/api/js?'.$google_api_key.'sensor=false' , array( 'jquery' ) , '1.0' , true );
 	wp_enqueue_script( 'mega-finder' , SSF_WP_JS_BASE.'/super-store-finder.js' , array( 'jquery' ) , '1.0' , true );
 
 	
@@ -6966,7 +6966,7 @@ if (!function_exists("ssf_wp_do_geocoding")){
 
 	$delay = 100000; $ccTLD=$ssf_wp_vars['map_region']; $sensor=$ssf_wp_vars['sensor'];
 
-	$base_url = "https://maps.googleapis.com/maps/api/geocode/json?";
+//	$base_url = "https://maps.googleapis.com/maps/api/geocode/json?";
 
 	if ($sensor!="" && !empty($sensor) && ($sensor === "true" || $sensor === "false" )) {$base_url .= "sensor=".$sensor;} else {$base_url .= "sensor=false";}
 
@@ -7297,7 +7297,7 @@ $ssf_accept_privacy="<div class='ssf_option_input' style='border-bottom:none;'>
 	print "//]]>\n</script>\n";	
 	wp_enqueue_script('nicEdit', SSF_WP_JS_BASE."/nicEdit.js", "jQuery" );
     wp_enqueue_style( 'ssf-add-location' , SSF_WP_CSS_BASE.'/add-location.css' , true , '1.0' );
-	wp_enqueue_script('mega-google-location' , 'https://maps.googleapis.com/maps/api/js?key='.$google_api_key.'&libraries=places' , array( 'jquery' ) , '1.0' , true );
+//	wp_enqueue_script('mega-google-location' , 'https://maps.googleapis.com/maps/api/js?key='.$google_api_key.'&libraries=places' , array( 'jquery' ) , '1.0' , true );
 	wp_enqueue_script('add-location-request' , SSF_WP_JS_BASE.'/add-location.js' , array( 'jquery' ) , '1.0' , true );
 	wp_localize_script( 'add-location-request', 'ssfMyAjax', array( 'ajaxurl' => admin_url( 'admin-ajax.php' ) ) );
 

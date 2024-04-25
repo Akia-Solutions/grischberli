@@ -16,7 +16,7 @@ jQuery( document ).ready(function() {
 			    googleApi='key='+google_api_key+'&';
            }
 
-jQuery.getScript('https://maps.googleapis.com/maps/api/js?'+googleApi+'sensor=false&libraries=places&language='+ssf_m_lang+'&region='+ssf_m_rgn+'&callback=initializeSSFWidget');
+// jQuery.getScript('https://maps.googleapis.com/maps/api/js?'+googleApi+'sensor=false&libraries=places&language='+ssf_m_lang+'&region='+ssf_m_rgn+'&callback=initializeSSFWidget');
 
  }
  
