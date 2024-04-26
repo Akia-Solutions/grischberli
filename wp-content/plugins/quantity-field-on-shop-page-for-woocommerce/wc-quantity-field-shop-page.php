@@ -63,7 +63,8 @@ class woa_wqfsp {
 		$html .= '</form>';
 		$html .= wc_enqueue_js( '
 		jQuery(function($) {
-        $(".ajax_add_to_cart").attr("data-quantity", $(".qty").val());
+		let button = $("button[data-product_id='. $product->get_id() .']");
+        button.attr("data-quantity", button[0].parentNode[0].value);
 		});
 		' );
 	}
@@ -100,7 +101,6 @@ function woa_woocommerce_quantity_input_args( $args, $product ) {
 		wc_enqueue_js( '
 		jQuery(function($) {
 		$("form.cart").on("change", "input.qty", function() {
-		
         $(this.form).find("[data-quantity]").attr("data-quantity", this.value);  //used attr instead of data, for WC 4.0 compatibility
         });
 		' );

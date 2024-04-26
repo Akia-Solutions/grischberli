@@ -5,8 +5,6 @@ if (!defined('UPDRAFTCENTRAL_CLIENT_DIR')) die('No access.');
 /**
  * Handles Analytics Commands
  *
- * @method array ga_checker()
- * @method array get_access_token()
  * @method array set_authorization_code()
  */
 class UpdraftCentral_Analytics_Commands extends UpdraftCentral_Commands {
@@ -336,7 +334,7 @@ class UpdraftCentral_Analytics_Commands extends UpdraftCentral_Commands {
 			if (stristr($scripts[0][$i], 'ga.js') || stristr($scripts[0][$i], 'analytics.js')) {
 				$script_file_found = true;
 			}
-			
+
 			// Check for Google Tag Manager file
 			// N.B. We are not checking for GTM but this check will be useful when
 			// showing the notice to the user if we haven't found Google Analytics
