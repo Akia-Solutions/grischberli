@@ -1,0 +1,6 @@
+.woocommerce .shop_table.cart .actions {
+    text-align: right!important;
+    line-height: 0;
+    padding: 1.2rem 0 .6rem;
+    border: none;
+}

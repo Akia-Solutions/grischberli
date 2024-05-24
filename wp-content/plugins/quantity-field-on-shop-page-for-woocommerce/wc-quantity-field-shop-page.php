@@ -61,12 +61,6 @@ class woa_wqfsp {
 		$html .= woocommerce_quantity_input( array(), $product, false );
 		$html .= '<button type="submit" data-quantity="1" data-product_id="' . $product->get_id() . '" class="button alt ajax_add_to_cart add_to_cart_button product_type_simple">' . esc_html( $product->add_to_cart_text() ) . '</button>';
 		$html .= '</form>';
-		$html .= wc_enqueue_js( '
-		jQuery(function($) {
-		let button = $("button[data-product_id='. $product->get_id() .']");
-        button.attr("data-quantity", button[0].parentNode[0].value);
-		});
-		' );
 	}
 	return $html;
 	}

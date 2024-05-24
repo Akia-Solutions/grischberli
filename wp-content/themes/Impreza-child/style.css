@@ -8,3 +8,7 @@ Author URI: http://us-themes.com/
 */
 
 /*Add your own styles here:*/
+.um-register .um-form-field {
+    background-color: #fff;
+    box-sizing: border-box!important;
+}

@@ -20,7 +20,19 @@ function bbloomer_rename_address_my_account( $items ) {
  */
    
 add_shortcode( 'wc_reg_form_silva', 'silva_separate_registration_form' );
-    
+
+function custom_country_choices_callback() {
+
+    // choices array.
+    $countries = array(
+        "AT" => "Austria",
+        "CH" => "Switzerland",
+        "DE" => "Germany",
+    );
+
+    return array_unique( $countries );
+}
+
 function silva_separate_registration_form() {
    if ( is_admin() ) return;
    if ( is_user_logged_in() ) return;
