@@ -43,13 +43,20 @@ class dev_wc_shop
     public function custom_shipping_cost($rates, $package)
     {
         $country = $package['destination']['country'];
-        $item_count = intval(WC()->cart->get_cart_item_quantities());
+        $item_count = 0;
+        foreach (WC()->cart->get_cart() as $cart_item_key => $cart_item) {
+            $_product = apply_filters('woocommerce_cart_item_product', $cart_item['data'], $cart_item, $cart_item_key);
+            if ($_product && $_product->exists() && $cart_item['quantity'] > 0 && apply_filters('woocommerce_cart_item_visible', true, $cart_item, $cart_item_key)) {
+                $item_count += intval($cart_item['quantity']);
+            }
+        }
         $base_cost = 0;
 
         $user_id = get_current_user_id();
         $user_data = get_userdata($user_id);
         $at_cost = 8.30;
         $ch_cost = 12;
+        $user_role = '';
         if ($user_data) {
             $user_role = $user_data->roles[0];
         }
@@ -59,9 +66,9 @@ class dev_wc_shop
 
         if ($country == 'AT' || $country == 'Austria') {
             foreach ($rates as $rate_key => $rate) {
-                if (($rate->method_id == 'flat_rate')) {
+                if ((strstr($rate->method_id, 'flat_rate')) && (!is_user_logged_in() || $user_role == 'customer')) {
                     if ($item_count <= 14) {
-                        $at_cost = 8.3;
+                        $at_cost = 8.30;
                     } elseif ($item_count > 14 && $item_count <= 24) {
                         $at_cost = 9.45;
                     } elseif ($item_count > 24 && $item_count <= 40) {
@@ -73,17 +80,20 @@ class dev_wc_shop
                     } elseif ($item_count > 80) {
                         $count = ($item_count - 80) / 40;
                         if ($count >= 1) {
-                            $at_cost = (ceil($count) * 10.8) + 21.6;
+                            $at_cost = (floor($count) * 10.8) + 21.6;
                         } else {
                             $at_cost = 21.6;
                         }
                     }
-                    $rate->cost = ($item_count * $at_cost) + $base_cost;
+                    $rate->cost = floatval($at_cost) + floatval($base_cost);
+                }else {
+                    $at_cost = 10.80;
+                    $rate->cost = (ceil($item_count / 6) * floatval($at_cost)) + floatval($base_cost);
                 }
             }
         } elseif ($country == 'CH' || $country == 'Switzerland') {
             foreach ($rates as $rate_key => $rate) {
-                if (($rate->method_id == 'flat_rate')) {
+                if ((strstr($rate->method_id, 'flat_rate')) && (!is_user_logged_in() || $user_role == 'customer')) {
                     if ($item_count <= 18) {
                         $ch_cost = 12;
                     } elseif ($item_count > 18 && $item_count <= 30) {
@@ -97,12 +107,15 @@ class dev_wc_shop
                     } elseif ($item_count > 80) {
                         $count = ($item_count - 80) / 40;
                         if ($count >= 1) {
-                            $ch_cost = (ceil($count) * 15.4) + 30.8;
+                            $ch_cost = (floor($count) * 15.4) + 30.8;
                         } else {
                             $ch_cost = 30.8;
                         }
                     }
-                    $rate->cost = ($item_count * $ch_cost) + $base_cost;
+                    $rate->cost = floatval($ch_cost) + floatval($base_cost);
+                }else {
+                    $ch_cost = 15.40;
+                    $rate->cost = (ceil($item_count / 6) * floatval($ch_cost)) + floatval($base_cost);
                 }
             }
         }
